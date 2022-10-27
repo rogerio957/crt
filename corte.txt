@@ -1,0 +1,2753 @@
+#EXTM3U
+#EXTINF:-1,AXN FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90716.ts
+#EXTINF:-1,AXN HD
+http://acsc.cc:80/0672648180/fireurl.co/71783.ts
+#EXTINF:-1,AXN HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90715.ts
+#EXTINF:-1,AXN SD
+http://acsc.cc:80/0672648180/fireurl.co/71784.ts
+#EXTINF:-1,AXN SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90714.ts
+#EXTINF:-1,Baby TV SD
+http://acsc.cc:80/0672648180/fireurl.co/130198.ts
+#EXTINF:-1,Banda BA SD
+http://acsc.cc:80/0672648180/fireurl.co/72620.ts
+#EXTINF:-1,Banda Maringá FHD
+http://acsc.cc:80/0672648180/fireurl.co/71785.ts
+#EXTINF:-1,Banda Maringá FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71786.ts
+#EXTINF:-1,Banda Maringá HD
+http://acsc.cc:80/0672648180/fireurl.co/71787.ts
+#EXTINF:-1,Banda Maringá SD
+http://acsc.cc:80/0672648180/fireurl.co/71788.ts
+#EXTINF:-1,BandNews 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103526.ts
+#EXTINF:-1,BandNews FHD
+http://acsc.cc:80/0672648180/fireurl.co/71789.ts
+#EXTINF:-1,BandNews FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71790.ts
+#EXTINF:-1,BandNews HD
+http://acsc.cc:80/0672648180/fireurl.co/71791.ts
+#EXTINF:-1,BandNews SD
+http://acsc.cc:80/0672648180/fireurl.co/71792.ts
+#EXTINF:-1,Banda SP FHD
+http://acsc.cc:80/0672648180/fireurl.co/79311.ts
+#EXTINF:-1,Banda SP FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104943.ts
+#EXTINF:-1,Banda SP HD
+http://acsc.cc:80/0672648180/fireurl.co/72597.ts
+#EXTINF:-1,Banda SP SD
+http://acsc.cc:80/0672648180/fireurl.co/79312.ts
+#EXTINF:-1,Band Sports 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103525.ts
+#EXTINF:-1,Banda Esportes FHD
+http://acsc.cc:80/0672648180/fireurl.co/71801.ts
+#EXTINF:-1,Band Sports FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71802.ts
+#EXTINF:-1,Banda Esportes HD
+http://acsc.cc:80/0672648180/fireurl.co/71803.ts
+#EXTINF:-1,Band Sports SD
+http://acsc.cc:80/0672648180/fireurl.co/71804.ts
+#EXTINF:-1,BBC SD
+http://acsc.cc:80/0672648180/fireurl.co/71805.ts
+#EXTINF:-1,BIS 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103527.ts
+#EXTINF:-1,BIS FHD
+http://acsc.cc:80/0672648180/fireurl.co/71806.ts
+#EXTINF:-1,BIS FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71807.ts
+#EXTINF:-1,BIS HD
+http://acsc.cc:80/0672648180/fireurl.co/71808.ts
+#EXTINF:-1,BIS SD
+http://acsc.cc:80/0672648180/fireurl.co/71809.ts
+#EXTINF:-1,BJJ STARS 8 FHD
+http://acsc.cc:80/0672648180/fireurl.co/159276.ts
+#EXTINF:-1,BJJ STARS 8 HD
+http://acsc.cc:80/0672648180/fireurl.co/159277.ts
+#EXTINF:-1,BJJ STARS 8 SD
+http://acsc.cc:80/0672648180/fireurl.co/159278.ts
+#EXTINF:-1,Bloomberg SD
+http://acsc.cc:80/0672648180/fireurl.co/71810.ts
+#EXTINF:-1,Boa Vontade TV SD
+http://acsc.cc:80/0672648180/fireurl.co/71811.ts
+#EXTINF:-1,Brasileirao Serie C 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/157407.ts
+#EXTINF:-1,Brasileirao Serie C 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/157408.ts
+#EXTINF:-1,Brasileirao Serie C 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/157409.ts
+#EXTINF:-1,Brasileirao Serie C 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/157410.ts
+#EXTINF:-1,Brasileirao Serie C 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/157411.ts
+#EXTINF:-1,Brasileirao Serie C 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/157412.ts
+#EXTINF:-1,Brasileirao Serie C 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/157413.ts
+#EXTINF:-1,Brasileirao Serie C 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/157414.ts
+#EXTINF:-1,Brasileirao Serie C 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/157415.ts
+#EXTINF:-1,Campeonato Carioca 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/96513.ts
+#EXTINF:-1,Campeonato Carioca 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/96515.ts
+#EXTINF:-1,Campeonato Carioca 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/96516.ts
+#EXTINF:-1,Campeonato Carioca 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103519.ts
+#EXTINF:-1,Campeonato Carioca 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/96517.ts
+#EXTINF:-1,Campeonato Carioca 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/96518.ts
+#EXTINF:-1,Campeonato Carioca 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/96519.ts
+#EXTINF:-1,Campeonato Carioca 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/96520.ts
+#EXTINF:-1,Campeonato Paranaense 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/111408.ts
+#EXTINF:-1,Campeonato Paranaense 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/111409.ts
+#EXTINF:-1,Campeonato Paranaense 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/111410.ts
+#EXTINF:-1,Canal Brasil 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103518.ts
+#EXTINF:-1,Canal Brasil FHD
+http://acsc.cc:80/0672648180/fireurl.co/71816.ts
+#EXTINF:-1,Canal Brasil FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71817.ts
+#EXTINF:-1,Canal Brasil HD
+http://acsc.cc:80/0672648180/fireurl.co/71818.ts
+#EXTINF:-1,Canal Brasil SD
+http://acsc.cc:80/0672648180/fireurl.co/71819.ts
+#EXTINF:-1,Canal do Boi 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103516.ts
+#EXTINF:-1,Canal do Boi FHD
+http://acsc.cc:80/0672648180/fireurl.co/71820.ts
+#EXTINF:-1,Canal do Boi HD
+http://acsc.cc:80/0672648180/fireurl.co/71821.ts
+#EXTINF:-1,Canal do Boi SD
+http://acsc.cc:80/0672648180/fireurl.co/71822.ts
+#EXTINF:-1,Canal Rural SD
+http://acsc.cc:80/0672648180/fireurl.co/71823.ts
+#EXTINF:-1,Canal Sony 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103517.ts
+#EXTINF:-1,Canal Sony FHD
+http://acsc.cc:80/0672648180/fireurl.co/71824.ts
+#EXTINF:-1,Canal Sony FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71825.ts
+#EXTINF:-1,Canal Sony FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90713.ts
+#EXTINF:-1,Canal Sony HD
+http://acsc.cc:80/0672648180/fireurl.co/71826.ts
+#EXTINF:-1,Canal Sony HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90712.ts
+#EXTINF:-1,Canal Sony SD
+http://acsc.cc:80/0672648180/fireurl.co/71827.ts
+#EXTINF:-1,Canal Sony SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90711.ts
+#EXTINF:-1,Cartoon Network 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/71830.ts
+#EXTINF:-1,Rede de desenhos animados FHD
+http://acsc.cc:80/0672648180/fireurl.co/71828.ts
+#EXTINF:-1,Cartoon Network FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71829.ts
+#EXTINF:-1,Rede de desenhos animados HD
+http://acsc.cc:80/0672648180/fireurl.co/71831.ts
+#EXTINF:-1,Cartoon Network SD
+http://acsc.cc:80/0672648180/fireurl.co/71832.ts
+#EXTINF:-1,Cartoonito 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90644.ts
+#EXTINF:-1,Cartoonito FHD
+http://acsc.cc:80/0672648180/fireurl.co/71812.ts
+#EXTINF:-1,Cartoonito FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71813.ts
+#EXTINF:-1,Cartoonito HD
+http://acsc.cc:80/0672648180/fireurl.co/71814.ts
+#EXTINF:-1,Cartoonito SD
+http://acsc.cc:80/0672648180/fireurl.co/71815.ts
+#EXTINF:-1,Cine SKY 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/72994.ts
+#EXTINF:-1,Cine SKY 10 HD
+http://acsc.cc:80/0672648180/fireurl.co/73003.ts
+#EXTINF:-1,Cine SKY 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/72995.ts
+#EXTINF:-1,Cine SKY 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/72996.ts
+#EXTINF:-1,Cine SKY 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/72997.ts
+#EXTINF:-1,Cine SKY 5 HD
+http://acsc.cc:80/0672648180/fireurl.co/72998.ts
+#EXTINF:-1,Cine SKY 6 HD
+http://acsc.cc:80/0672648180/fireurl.co/72999.ts
+#EXTINF:-1,Cine SKY 7 HD
+http://acsc.cc:80/0672648180/fireurl.co/73000.ts
+#EXTINF:-1,Cine SKY 8 HD
+http://acsc.cc:80/0672648180/fireurl.co/73001.ts
+#EXTINF:-1,Cine SKY 9 HD
+http://acsc.cc:80/0672648180/fireurl.co/73002.ts
+#EXTINF:-1,Cinecanal 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103468.ts
+#EXTINF:-1,Cinecanal FHD
+http://acsc.cc:80/0672648180/fireurl.co/71939.ts
+#EXTINF:-1,Cinecanal FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71940.ts
+#EXTINF:-1,Cinecanal HD
+http://acsc.cc:80/0672648180/fireurl.co/71941.ts
+#EXTINF:-1,Cinecanal SD
+http://acsc.cc:80/0672648180/fireurl.co/71942.ts
+#EXTINF:-1,Cinemax 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90643.ts
+#EXTINF:-1,Cinemax FHD
+http://acsc.cc:80/0672648180/fireurl.co/71833.ts
+#EXTINF:-1,Cinemax FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71834.ts
+#EXTINF:-1,Cinemax HD
+http://acsc.cc:80/0672648180/fireurl.co/71835.ts
+#EXTINF:-1,Cinemax SD
+http://acsc.cc:80/0672648180/fireurl.co/71836.ts
+#EXTINF:-1,CNN Brasil 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/71798.ts
+#EXTINF:-1,CNN Brasil FHD
+http://acsc.cc:80/0672648180/fireurl.co/71837.ts
+#EXTINF:-1,CNN Brasil FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71838.ts
+#EXTINF:-1,CNN Brasil HD
+http://acsc.cc:80/0672648180/fireurl.co/71839.ts
+#EXTINF:-1,CNN Brasil SD
+http://acsc.cc:80/0672648180/fireurl.co/71840.ts
+#EXTINF:-1,CNN Internacional SD
+http://acsc.cc:80/0672648180/fireurl.co/71841.ts
+#EXTINF:-1,Combate 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/71844.ts
+#EXTINF:-1,Combate FHD
+http://acsc.cc:80/0672648180/fireurl.co/71842.ts
+#EXTINF:-1,Combate FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71843.ts
+#EXTINF:-1,Combate HD
+http://acsc.cc:80/0672648180/fireurl.co/71845.ts
+#EXTINF:-1,Combate SD
+http://acsc.cc:80/0672648180/fireurl.co/71846.ts
+#EXTINF:-1,Comédia Central 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90642.ts
+#EXTINF:-1,Comédia Central FHD
+http://acsc.cc:80/0672648180/fireurl.co/71847.ts
+#EXTINF:-1,Comédia Central FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71848.ts
+#EXTINF:-1,Comédia Central HD
+http://acsc.cc:80/0672648180/fireurl.co/71849.ts
+#EXTINF:-1,Comédia Central SD
+http://acsc.cc:80/0672648180/fireurl.co/71850.ts
+#EXTINF:-1,CONMEBOL TV 1 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103524.ts
+#EXTINF:-1,Conmebol TV 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72977.ts
+#EXTINF:-1,Conmebol TV 1 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72978.ts
+#EXTINF:-1,Conmebol TV 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/72979.ts
+#EXTINF:-1,Conmebol TV 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/72980.ts
+#EXTINF:-1,CONMEBOL TV 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103523.ts
+#EXTINF:-1,Conmebol TV 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72981.ts
+#EXTINF:-1,Conmebol TV 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72982.ts
+#EXTINF:-1,Conmebol TV 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/72983.ts
+#EXTINF:-1,Conmebol TV 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/72984.ts
+#EXTINF:-1,CONMEBOL TV 3 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103522.ts
+#EXTINF:-1,Conmebol TV 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72985.ts
+#EXTINF:-1,Conmebol TV 3 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72986.ts
+#EXTINF:-1,Conmebol TV 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/72987.ts
+#EXTINF:-1,Conmebol TV 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/72988.ts
+#EXTINF:-1,CONMEBOL TV 4 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103521.ts
+#EXTINF:-1,Conmebol TV 4 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72989.ts
+#EXTINF:-1,Conmebol TV 4 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72990.ts
+#EXTINF:-1,Conmebol TV 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/72991.ts
+#EXTINF:-1,Conmebol TV 4 SD
+http://acsc.cc:80/0672648180/fireurl.co/72992.ts
+#EXTINF:-1,Copa Catarinense 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/96011.ts
+#EXTINF:-1,Copa Catarinense 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/96012.ts
+#EXTINF:-1,Copa Catarinense 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/96013.ts
+#EXTINF:-1,Copa Catarinense 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/147527.ts
+#EXTINF:-1,Copa do Brasil 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/150498.ts
+#EXTINF:-1,Copa do Brasil 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/150499.ts
+#EXTINF:-1,Copa do Brasil 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/150500.ts
+#EXTINF:-1,Copa do Brasil 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/150501.ts
+#EXTINF:-1,Copa do Brasil 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/150502.ts
+#EXTINF:-1,Copa do Brasil 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/150503.ts
+#EXTINF:-1,Copa do Nordeste 1 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103515.ts
+#EXTINF:-1,Copa do Nordeste 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/96505.ts
+#EXTINF:-1,Copa do Nordeste 1 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/96506.ts
+#EXTINF:-1,Copa do Nordeste 1HD
+http://acsc.cc:80/0672648180/fireurl.co/96507.ts
+#EXTINF:-1,Copa do Nordeste 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/96508.ts
+#EXTINF:-1,Copa do Nordeste 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103514.ts
+#EXTINF:-1,Copa do Nordeste 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/96509.ts
+#EXTINF:-1,Copa do Nordeste 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/96510.ts
+#EXTINF:-1,Copa do Nordeste 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/96511.ts
+#EXTINF:-1,Copa do Nordeste 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/96512.ts
+#EXTINF:-1,Copa do Nordeste 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/101617.ts
+#EXTINF:-1,Copa do Nordeste 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/101618.ts
+#EXTINF:-1,Copa do Nordeste 5HD
+http://acsc.cc:80/0672648180/fireurl.co/101619.ts
+#EXTINF:-1,Copa do Nordeste 6 HD
+http://acsc.cc:80/0672648180/fireurl.co/101620.ts
+#EXTINF:-1,Copa do Nordeste 7 HD
+http://acsc.cc:80/0672648180/fireurl.co/101621.ts
+#EXTINF:-1,Cultura 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103513.ts
+#EXTINF:-1,Cultura FHD
+http://acsc.cc:80/0672648180/fireurl.co/71851.ts
+#EXTINF:-1,Cultura FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71852.ts
+#EXTINF:-1,Cultura HD
+http://acsc.cc:80/0672648180/fireurl.co/71853.ts
+#EXTINF:-1,Cultura SD
+http://acsc.cc:80/0672648180/fireurl.co/71854.ts
+#EXTINF:-1,Curta FHD
+http://acsc.cc:80/0672648180/fireurl.co/71855.ts
+#EXTINF:-1,Curta FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71856.ts
+#EXTINF:-1,Curta HD
+http://acsc.cc:80/0672648180/fireurl.co/71857.ts
+#EXTINF:-1,Curta SD
+http://acsc.cc:80/0672648180/fireurl.co/71858.ts
+#EXTINF:-1,Curta! 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103512.ts
+#EXTINF:-1,DAZN 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/71860.ts
+#EXTINF:-1,DAZN 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/72630.ts
+#EXTINF:-1,DAZN 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/71861.ts
+#EXTINF:-1,DAZN 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/71859.ts
+#EXTINF:-1,Discovery Channel 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/71864.ts
+#EXTINF:-1,Discovery Channel FHD
+http://acsc.cc:80/0672648180/fireurl.co/71862.ts
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71863.ts
+#EXTINF:-1,Discovery Channel HD
+http://acsc.cc:80/0672648180/fireurl.co/71865.ts
+#EXTINF:-1,Discovery Channel SD
+http://acsc.cc:80/0672648180/fireurl.co/71866.ts
+#EXTINF:-1,Discovery H&H 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90251.ts
+#EXTINF:-1,Descoberta H&H FHD
+http://acsc.cc:80/0672648180/fireurl.co/71867.ts
+#EXTINF:-1,Descoberta H&H FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71868.ts
+#EXTINF:-1,Discovery H&H HD
+http://acsc.cc:80/0672648180/fireurl.co/71869.ts
+#EXTINF:-1,Descoberta H&H SD
+http://acsc.cc:80/0672648180/fireurl.co/71870.ts
+#EXTINF:-1,Discovery Kids 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90250.ts
+#EXTINF:-1,Discovery Kids FHD
+http://acsc.cc:80/0672648180/fireurl.co/71871.ts
+#EXTINF:-1,Discovery Kids FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71872.ts
+#EXTINF:-1,Discovery Kids HD
+http://acsc.cc:80/0672648180/fireurl.co/71873.ts
+#EXTINF:-1,Discovery Kids SD
+http://acsc.cc:80/0672648180/fireurl.co/71874.ts
+#EXTINF:-1,Discovery Science 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103511.ts
+#EXTINF:-1,Discovery Science FHD
+http://acsc.cc:80/0672648180/fireurl.co/71875.ts
+#EXTINF:-1,Discovery Science FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71876.ts
+#EXTINF:-1,Discovery Science HD
+http://acsc.cc:80/0672648180/fireurl.co/71877.ts
+#EXTINF:-1,Discovery Science SD
+http://acsc.cc:80/0672648180/fireurl.co/71878.ts
+#EXTINF:-1,Discovery Theater 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103510.ts
+#EXTINF:-1,Discovery Theater FHD
+http://acsc.cc:80/0672648180/fireurl.co/71879.ts
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71880.ts
+#EXTINF:-1,Discovery Theater HD
+http://acsc.cc:80/0672648180/fireurl.co/71881.ts
+#EXTINF:-1,Discovery Theater SD
+http://acsc.cc:80/0672648180/fireurl.co/71882.ts
+#EXTINF:-1,Discovery Turbo 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90641.ts
+#EXTINF:-1,Discovery Turbo FHD
+http://acsc.cc:80/0672648180/fireurl.co/71883.ts
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71884.ts
+#EXTINF:-1,Discovery Turbo HD
+http://acsc.cc:80/0672648180/fireurl.co/71885.ts
+#EXTINF:-1,Discovery Turbo SD
+http://acsc.cc:80/0672648180/fireurl.co/71886.ts
+#EXTINF:-1,Discovery World 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103509.ts
+#EXTINF:-1,Discovery World FHD
+http://acsc.cc:80/0672648180/fireurl.co/71887.ts
+#EXTINF:-1,Discovery World FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71888.ts
+#EXTINF:-1,Discovery World HD
+http://acsc.cc:80/0672648180/fireurl.co/71889.ts
+#EXTINF:-1,Discovery World SD
+http://acsc.cc:80/0672648180/fireurl.co/71890.ts
+#EXTINF:-1,Disney Channel 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103508.ts
+#EXTINF:-1,Disney Channel FHD
+http://acsc.cc:80/0672648180/fireurl.co/71891.ts
+#EXTINF:-1,Disney Channel FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71892.ts
+#EXTINF:-1,Disney Channel HD
+http://acsc.cc:80/0672648180/fireurl.co/71893.ts
+#EXTINF:-1,Disney Channel SD
+http://acsc.cc:80/0672648180/fireurl.co/71894.ts
+#EXTINF:-1,Disney XD SD
+http://acsc.cc:80/0672648180/fireurl.co/71899.ts
+#EXTINF:-1,TV para cães FHD
+http://acsc.cc:80/0672648180/fireurl.co/76922.ts
+#EXTINF:-1,TV DE CACHORRO FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104909.ts
+#EXTINF:-1,TV para cães HD
+http://acsc.cc:80/0672648180/fireurl.co/76923.ts
+#EXTINF:-1,TV de cachorro SD
+http://acsc.cc:80/0672648180/fireurl.co/104908.ts
+#EXTINF:-1,DW (Deutsch+) SD
+http://acsc.cc:80/0672648180/fireurl.co/104940.ts
+#EXTINF:-1,E! 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103506.ts
+#EXTINF:-1,E! FHD
+http://acsc.cc:80/0672648180/fireurl.co/71900.ts
+#EXTINF:-1,E! FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71901.ts
+#EXTINF:-1,E! HD
+http://acsc.cc:80/0672648180/fireurl.co/71902.ts
+#EXTINF:-1,E! SD
+http://acsc.cc:80/0672648180/fireurl.co/71903.ts
+#EXTINF:-1,ESPN 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/71921.ts
+#EXTINF:-1,ESPN 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/71919.ts
+#EXTINF:-1,ESPN 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71920.ts
+#EXTINF:-1,ESPN 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/71922.ts
+#EXTINF:-1,ESPN 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/71923.ts
+#EXTINF:-1,ESPN 3 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103504.ts
+#EXTINF:-1,ESPN 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/71907.ts
+#EXTINF:-1,ESPN 3 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71908.ts
+#EXTINF:-1,ESPN 3HD
+http://acsc.cc:80/0672648180/fireurl.co/71909.ts
+#EXTINF:-1,ESPN 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/71910.ts
+#EXTINF:-1,ESPN 4 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/71959.ts
+#EXTINF:-1,ESPN 4 FHD
+http://acsc.cc:80/0672648180/fireurl.co/71957.ts
+#EXTINF:-1,ESPN 4 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71958.ts
+#EXTINF:-1,ESPN 4HD
+http://acsc.cc:80/0672648180/fireurl.co/71960.ts
+#EXTINF:-1,ESPN 4 SD
+http://acsc.cc:80/0672648180/fireurl.co/71961.ts
+#EXTINF:-1,ESPN 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90640.ts
+#EXTINF:-1,ESPN Extra 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103505.ts
+#EXTINF:-1,ESPN Extra FHD
+http://acsc.cc:80/0672648180/fireurl.co/71915.ts
+#EXTINF:-1,ESPN Extra FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71916.ts
+#EXTINF:-1,ESPN Extra HD
+http://acsc.cc:80/0672648180/fireurl.co/71917.ts
+#EXTINF:-1,ESPN Extra SD
+http://acsc.cc:80/0672648180/fireurl.co/71918.ts
+#EXTINF:-1,ESPN FHD
+http://acsc.cc:80/0672648180/fireurl.co/71911.ts
+#EXTINF:-1,ESPN FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71912.ts
+#EXTINF:-1,ESPN HD
+http://acsc.cc:80/0672648180/fireurl.co/71913.ts
+#EXTINF:-1,ESPN SD
+http://acsc.cc:80/0672648180/fireurl.co/71914.ts
+#EXTINF:-1,Estádio TNT Sports 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/76671.ts
+#EXTINF:-1,Estádio TNT Sports 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/76672.ts
+#EXTINF:-1,Eurocanal FHD
+http://acsc.cc:80/0672648180/fireurl.co/104910.ts
+#EXTINF:-1,Eurocanal FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104913.ts
+#EXTINF:-1,Eurocanal HD
+http://acsc.cc:80/0672648180/fireurl.co/104911.ts
+#EXTINF:-1,Eurocanal SD
+http://acsc.cc:80/0672648180/fireurl.co/104912.ts
+#EXTINF:-1,Facebook Watch
+http://acsc.cc:80/0672648180/fireurl.co/73005.ts
+#EXTINF:-1,Facebook Watch 2
+http://acsc.cc:80/0672648180/fireurl.co/79316.ts
+#EXTINF:-1,Facebook Watch 3
+http://acsc.cc:80/0672648180/fireurl.co/79317.ts
+#EXTINF:-1,Fashion TV 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103503.ts
+#EXTINF:-1,FashionTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/71924.ts
+#EXTINF:-1,FashionTV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71925.ts
+#EXTINF:-1,FashionTV HD
+http://acsc.cc:80/0672648180/fireurl.co/71926.ts
+#EXTINF:-1,FashionTV SD
+http://acsc.cc:80/0672648180/fireurl.co/71927.ts
+#EXTINF:-1,Film&Arts FHD
+http://acsc.cc:80/0672648180/fireurl.co/104914.ts
+#EXTINF:-1,Film&Arts FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104920.ts
+#EXTINF:-1,Film&Arts HD
+http://acsc.cc:80/0672648180/fireurl.co/104915.ts
+#EXTINF:-1,Film&Arts SD
+http://acsc.cc:80/0672648180/fireurl.co/104916.ts
+#EXTINF:-1,Fish TV 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103502.ts
+#EXTINF:-1,Fish TV FHD
+http://acsc.cc:80/0672648180/fireurl.co/71928.ts
+#EXTINF:-1,Fish TV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71929.ts
+#EXTINF:-1,Peixe TV HD
+http://acsc.cc:80/0672648180/fireurl.co/71930.ts
+#EXTINF:-1,Peixe TV SD
+http://acsc.cc:80/0672648180/fireurl.co/71931.ts
+#EXTINF:-1,Rede de alimentos 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103501.ts
+#EXTINF:-1,Rede de Alimentos FHD
+http://acsc.cc:80/0672648180/fireurl.co/71932.ts
+#EXTINF:-1,Rede de alimentos FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71933.ts
+#EXTINF:-1,Rede de Alimentos HD
+http://acsc.cc:80/0672648180/fireurl.co/71934.ts
+#EXTINF:-1,Rede de Alimentos SD
+http://acsc.cc:80/0672648180/fireurl.co/71935.ts
+#EXTINF:-1,Fórmula 1 TV HD
+http://acsc.cc:80/0672648180/fireurl.co/98395.ts
+#EXTINF:-1,Fox Sports 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/71954.ts
+#EXTINF:-1,Fox Sports 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/71952.ts
+#EXTINF:-1,Fox Sports 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71953.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/71955.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/71956.ts
+#EXTINF:-1,França 24 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103500.ts
+#EXTINF:-1,França 24 FHD
+http://acsc.cc:80/0672648180/fireurl.co/104906.ts
+#EXTINF:-1,França 24 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104942.ts
+#EXTINF:-1,França 24 HD
+http://acsc.cc:80/0672648180/fireurl.co/104907.ts
+#EXTINF:-1,França 24 SD
+http://acsc.cc:80/0672648180/fireurl.co/104941.ts
+#EXTINF:-1,Furacao Live FHD
+http://acsc.cc:80/0672648180/fireurl.co/142040.ts
+#EXTINF:-1,Furacao Live HD
+http://acsc.cc:80/0672648180/fireurl.co/105789.ts
+#EXTINF:-1,Furacao Live SD
+http://acsc.cc:80/0672648180/fireurl.co/142041.ts
+#EXTINF:-1,Futura 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103499.ts
+#EXTINF:-1,Futura FHD
+http://acsc.cc:80/0672648180/fireurl.co/71962.ts
+#EXTINF:-1,Futura FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71963.ts
+#EXTINF:-1,Futura HD
+http://acsc.cc:80/0672648180/fireurl.co/71964.ts
+#EXTINF:-1,Futura SD
+http://acsc.cc:80/0672648180/fireurl.co/71965.ts
+#EXTINF:-1,FX 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90639.ts
+#EXTINF:-1,FX FHD
+http://acsc.cc:80/0672648180/fireurl.co/71966.ts
+#EXTINF:-1,FX FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71967.ts
+#EXTINF:-1,FX FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90710.ts
+#EXTINF:-1,FX HD
+http://acsc.cc:80/0672648180/fireurl.co/71968.ts
+#EXTINF:-1,FX HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90709.ts
+#EXTINF:-1,FX SD
+http://acsc.cc:80/0672648180/fireurl.co/71969.ts
+#EXTINF:-1,FX SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90708.ts
+#EXTINF:-1,Globo Brasília FHD
+http://acsc.cc:80/0672648180/fireurl.co/131151.ts
+#EXTINF:-1,Globo Brasília HD
+http://acsc.cc:80/0672648180/fireurl.co/131164.ts
+#EXTINF:-1,Globo Brasília SD
+http://acsc.cc:80/0672648180/fireurl.co/131116.ts
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://acsc.cc:80/0672648180/fireurl.co/131150.ts
+#EXTINF:-1,Globo EPTV Campinas HD
+http://acsc.cc:80/0672648180/fireurl.co/71977.ts
+#EXTINF:-1,Globo EPTV Campinas SD
+http://acsc.cc:80/0672648180/fireurl.co/131210.ts
+#EXTINF:-1,Globo EPTV Ribeirão Preto FHD
+http://acsc.cc:80/0672648180/fireurl.co/131172.ts
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+http://acsc.cc:80/0672648180/fireurl.co/131178.ts
+#EXTINF:-1,Globo EPTV Ribeirão Preto SD
+http://acsc.cc:80/0672648180/fireurl.co/131202.ts
+#EXTINF:-1,Globo EPTV São Carlos FHD
+http://acsc.cc:80/0672648180/fireurl.co/131141.ts
+#EXTINF:-1,Globo EPTV São Carlos HD
+http://acsc.cc:80/0672648180/fireurl.co/131129.ts
+#EXTINF:-1,Globo EPTV São Carlos SD
+http://acsc.cc:80/0672648180/fireurl.co/72592.ts
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://acsc.cc:80/0672648180/fireurl.co/71979.ts
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://acsc.cc:80/0672648180/fireurl.co/71980.ts
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+http://acsc.cc:80/0672648180/fireurl.co/131201.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://acsc.cc:80/0672648180/fireurl.co/71982.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://acsc.cc:80/0672648180/fireurl.co/71983.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://acsc.cc:80/0672648180/fireurl.co/131131.ts
+#EXTINF:-1,Globo Inter TV Cabugi FHD
+http://acsc.cc:80/0672648180/fireurl.co/71985.ts
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://acsc.cc:80/0672648180/fireurl.co/71986.ts
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://acsc.cc:80/0672648180/fireurl.co/131186.ts
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://acsc.cc:80/0672648180/fireurl.co/131143.ts
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://acsc.cc:80/0672648180/fireurl.co/71989.ts
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://acsc.cc:80/0672648180/fireurl.co/71990.ts
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://acsc.cc:80/0672648180/fireurl.co/71991.ts
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://acsc.cc:80/0672648180/fireurl.co/131115.ts
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://acsc.cc:80/0672648180/fireurl.co/131114.ts
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://acsc.cc:80/0672648180/fireurl.co/71994.ts
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://acsc.cc:80/0672648180/fireurl.co/71995.ts
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://acsc.cc:80/0672648180/fireurl.co/71996.ts
+#EXTINF:-1,Globo InterTV Costa Branca HD
+http://acsc.cc:80/0672648180/fireurl.co/93581.ts
+#EXTINF:-1,Globo InterTV Costa Branca SD
+http://acsc.cc:80/0672648180/fireurl.co/93585.ts
+#EXTINF:-1,Globo InterTV Planicie HD
+http://acsc.cc:80/0672648180/fireurl.co/93586.ts
+#EXTINF:-1,Globo InterTV Planicie SD
+http://acsc.cc:80/0672648180/fireurl.co/93587.ts
+#EXTINF:-1,Globo Minas FHD
+http://acsc.cc:80/0672648180/fireurl.co/131200.ts
+#EXTINF:-1,Globo Minas HD
+http://acsc.cc:80/0672648180/fireurl.co/131159.ts
+#EXTINF:-1,Globo Minas SD
+http://acsc.cc:80/0672648180/fireurl.co/131209.ts
+#EXTINF:-1,Globo Nacional FHD
+http://acsc.cc:80/0672648180/fireurl.co/131217.ts
+#EXTINF:-1,Globo Nacional SD
+http://acsc.cc:80/0672648180/fireurl.co/131145.ts
+#EXTINF:-1,Globo News 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90248.ts
+#EXTINF:-1,Globo News FHD
+http://acsc.cc:80/0672648180/fireurl.co/71997.ts
+#EXTINF:-1,Globo News FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71998.ts
+#EXTINF:-1,Globo News HD
+http://acsc.cc:80/0672648180/fireurl.co/71999.ts
+#EXTINF:-1,Globo News SD
+http://acsc.cc:80/0672648180/fireurl.co/131112.ts
+#EXTINF:-1,Globo Nordeste FHD
+http://acsc.cc:80/0672648180/fireurl.co/72001.ts
+#EXTINF:-1,Globo Nordeste HD
+http://acsc.cc:80/0672648180/fireurl.co/131157.ts
+#EXTINF:-1,Globo Nordeste SD
+http://acsc.cc:80/0672648180/fireurl.co/72003.ts
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://acsc.cc:80/0672648180/fireurl.co/72004.ts
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://acsc.cc:80/0672648180/fireurl.co/72005.ts
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://acsc.cc:80/0672648180/fireurl.co/131192.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste FHD
+http://acsc.cc:80/0672648180/fireurl.co/135432.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste HD
+http://acsc.cc:80/0672648180/fireurl.co/135433.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste SD
+http://acsc.cc:80/0672648180/fireurl.co/135434.ts
+#EXTINF:-1,Globo NSC TV Chapecó FHD
+http://acsc.cc:80/0672648180/fireurl.co/131174.ts
+#EXTINF:-1,Globo NSC TV Chapecó HD
+http://acsc.cc:80/0672648180/fireurl.co/72008.ts
+#EXTINF:-1,Globo NSC TV Chapecó SD
+http://acsc.cc:80/0672648180/fireurl.co/131190.ts
+#EXTINF:-1,Globo NSC TV Criciúma FHD
+http://acsc.cc:80/0672648180/fireurl.co/135426.ts
+#EXTINF:-1,Globo NSC TV Criciúma HD
+http://acsc.cc:80/0672648180/fireurl.co/135427.ts
+#EXTINF:-1,Globo NSC TV Criciúma SD
+http://acsc.cc:80/0672648180/fireurl.co/135428.ts
+#EXTINF:-1,Globo NSC TV Florianópolis FHD
+http://acsc.cc:80/0672648180/fireurl.co/72010.ts
+#EXTINF:-1,Globo NSC TV Florianópolis HD
+http://acsc.cc:80/0672648180/fireurl.co/131183.ts
+#EXTINF:-1,Globo NSC TV Florianópolis SD
+http://acsc.cc:80/0672648180/fireurl.co/131144.ts
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://acsc.cc:80/0672648180/fireurl.co/91034.ts
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://acsc.cc:80/0672648180/fireurl.co/131167.ts
+#EXTINF:-1,Globo NSC TV Joinville SD
+http://acsc.cc:80/0672648180/fireurl.co/91032.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://acsc.cc:80/0672648180/fireurl.co/131160.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://acsc.cc:80/0672648180/fireurl.co/72014.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://acsc.cc:80/0672648180/fireurl.co/131130.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo FHD
+http://acsc.cc:80/0672648180/fireurl.co/133064.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo HD
+http://acsc.cc:80/0672648180/fireurl.co/133065.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo SD
+http://acsc.cc:80/0672648180/fireurl.co/133066.ts
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://acsc.cc:80/0672648180/fireurl.co/72617.ts
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://acsc.cc:80/0672648180/fireurl.co/131121.ts
+#EXTINF:-1,Globo RBS TV Pelotas SD
+http://acsc.cc:80/0672648180/fireurl.co/131207.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+http://acsc.cc:80/0672648180/fireurl.co/131102.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://acsc.cc:80/0672648180/fireurl.co/72017.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://acsc.cc:80/0672648180/fireurl.co/131198.ts
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://acsc.cc:80/0672648180/fireurl.co/135423.ts
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://acsc.cc:80/0672648180/fireurl.co/135424.ts
+#EXTINF:-1,Globo RBS TV Santa Maria SD
+http://acsc.cc:80/0672648180/fireurl.co/135425.ts
+#EXTINF:-1,Globo Rede Amazônica Amapá FHD
+http://acsc.cc:80/0672648180/fireurl.co/133055.ts
+#EXTINF:-1,Globo Rede Amazônica Amapá HD
+http://acsc.cc:80/0672648180/fireurl.co/133056.ts
+#EXTINF:-1,Globo Rede Amazônica Amapá SD
+http://acsc.cc:80/0672648180/fireurl.co/133057.ts
+#EXTINF:-1,Globo Rede Amazônica Boa Vista FHD
+http://acsc.cc:80/0672648180/fireurl.co/131185.ts
+#EXTINF:-1,Globo Rede Amazônica Boa Vista HD
+http://acsc.cc:80/0672648180/fireurl.co/93588.ts
+#EXTINF:-1,Globo Rede Amazônica Boa Vista SD
+http://acsc.cc:80/0672648180/fireurl.co/93589.ts
+#EXTINF:-1,Globo Rede Amazonica Macapá HD
+http://acsc.cc:80/0672648180/fireurl.co/93590.ts
+#EXTINF:-1,Globo Rede Amazonica Macapa SD
+http://acsc.cc:80/0672648180/fireurl.co/93591.ts
+#EXTINF:-1,Globo Rede Amazônica Manaus FHD
+http://acsc.cc:80/0672648180/fireurl.co/72019.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://acsc.cc:80/0672648180/fireurl.co/72020.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus SD
+http://acsc.cc:80/0672648180/fireurl.co/72021.ts
+#EXTINF:-1,Globo Rede Amazônica Porto Velho FHD
+http://acsc.cc:80/0672648180/fireurl.co/108684.ts
+#EXTINF:-1,Globo Rede Amazônica Porto Velho HD
+http://acsc.cc:80/0672648180/fireurl.co/93592.ts
+#EXTINF:-1,Globo Rede Amazônica Porto Velho SD
+http://acsc.cc:80/0672648180/fireurl.co/131184.ts
+#EXTINF:-1,Globo Rede Amazônica Rio Branco FHD
+http://acsc.cc:80/0672648180/fireurl.co/131148.ts
+#EXTINF:-1,Globo Rede Amazônica Rio Branco HD
+http://acsc.cc:80/0672648180/fireurl.co/131162.ts
+#EXTINF:-1,Globo Rede Amazônica Rio Branco SD
+http://acsc.cc:80/0672648180/fireurl.co/131111.ts
+#EXTINF:-1,Globo Rede Bahia FHD
+http://acsc.cc:80/0672648180/fireurl.co/131213.ts
+#EXTINF:-1,Globo Rede Bahia HD
+http://acsc.cc:80/0672648180/fireurl.co/131123.ts
+#EXTINF:-1,Globo Rede Bahia SD
+http://acsc.cc:80/0672648180/fireurl.co/72024.ts
+#EXTINF:-1,Globo RJ FHD
+http://acsc.cc:80/0672648180/fireurl.co/72025.ts
+#EXTINF:-1,Globo RJ HD
+http://acsc.cc:80/0672648180/fireurl.co/131163.ts
+#EXTINF:-1,Globo RJ SD
+http://acsc.cc:80/0672648180/fireurl.co/131182.ts
+#EXTINF:-1,Globo RPC Cascavel FHD
+http://acsc.cc:80/0672648180/fireurl.co/133058.ts
+#EXTINF:-1,Globo RPC Cascavel HD
+http://acsc.cc:80/0672648180/fireurl.co/133059.ts
+#EXTINF:-1,Globo RPC Cascavel SD
+http://acsc.cc:80/0672648180/fireurl.co/133060.ts
+#EXTINF:-1,Globo RPC Londrina FHD
+http://acsc.cc:80/0672648180/fireurl.co/133061.ts
+#EXTINF:-1,Globo RPC Londrina HD
+http://acsc.cc:80/0672648180/fireurl.co/133062.ts
+#EXTINF:-1,Globo RPC Londrina SD
+http://acsc.cc:80/0672648180/fireurl.co/133063.ts
+#EXTINF:-1,Globo RPC Paranavai FHD
+http://acsc.cc:80/0672648180/fireurl.co/72028.ts
+#EXTINF:-1,Globo RPC Paranavai HD
+http://acsc.cc:80/0672648180/fireurl.co/131170.ts
+#EXTINF:-1,Globo RPC Paranavai SD
+http://acsc.cc:80/0672648180/fireurl.co/131197.ts
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+http://acsc.cc:80/0672648180/fireurl.co/131199.ts
+#EXTINF:-1,Globo RPC TV Curitiba HD
+http://acsc.cc:80/0672648180/fireurl.co/72626.ts
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://acsc.cc:80/0672648180/fireurl.co/131127.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguaçu FHD
+http://acsc.cc:80/0672648180/fireurl.co/131149.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguaçu HD
+http://acsc.cc:80/0672648180/fireurl.co/72033.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguaçu SD
+http://acsc.cc:80/0672648180/fireurl.co/131206.ts
+#EXTINF:-1,Globo RPC TV Maringá FHD
+http://acsc.cc:80/0672648180/fireurl.co/131101.ts
+#EXTINF:-1,Globo RPC TV Maringá HD
+http://acsc.cc:80/0672648180/fireurl.co/96888.ts
+#EXTINF:-1,Globo RPC TV Maringá SD
+http://acsc.cc:80/0672648180/fireurl.co/131125.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+http://acsc.cc:80/0672648180/fireurl.co/131133.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+http://acsc.cc:80/0672648180/fireurl.co/72037.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa SD
+http://acsc.cc:80/0672648180/fireurl.co/131189.ts
+#EXTINF:-1,Globo SP FHD
+http://acsc.cc:80/0672648180/fireurl.co/72040.ts
+#EXTINF:-1,Globo SP FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/131215.ts
+#EXTINF:-1,Globo SP HD
+http://acsc.cc:80/0672648180/fireurl.co/131212.ts
+#EXTINF:-1,Globo SP SD
+http://acsc.cc:80/0672648180/fireurl.co/72042.ts
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://acsc.cc:80/0672648180/fireurl.co/72043.ts
+#EXTINF:-1,Globo TV Anhanguera HD
+http://acsc.cc:80/0672648180/fireurl.co/131166.ts
+#EXTINF:-1,Globo TV Anhanguera SD
+http://acsc.cc:80/0672648180/fireurl.co/131124.ts
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://acsc.cc:80/0672648180/fireurl.co/102554.ts
+#EXTINF:-1,Globo TV Asa Branca HD
+http://acsc.cc:80/0672648180/fireurl.co/102555.ts
+#EXTINF:-1,Globo TV Asa Branca SD
+http://acsc.cc:80/0672648180/fireurl.co/131180.ts
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://acsc.cc:80/0672648180/fireurl.co/131146.ts
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://acsc.cc:80/0672648180/fireurl.co/131110.ts
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://acsc.cc:80/0672648180/fireurl.co/131179.ts
+#EXTINF:-1,Globo TV Centro América FHD
+http://acsc.cc:80/0672648180/fireurl.co/72049.ts
+#EXTINF:-1,Globo TV Centro América HD
+http://acsc.cc:80/0672648180/fireurl.co/72050.ts
+#EXTINF:-1,Globo TV Centro América SD
+http://acsc.cc:80/0672648180/fireurl.co/72051.ts
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://acsc.cc:80/0672648180/fireurl.co/131105.ts
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://acsc.cc:80/0672648180/fireurl.co/72053.ts
+#EXTINF:-1,Globo TV Clube Teresina SD
+http://acsc.cc:80/0672648180/fireurl.co/131196.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes FHD
+http://acsc.cc:80/0672648180/fireurl.co/131100.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes HD
+http://acsc.cc:80/0672648180/fireurl.co/97596.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes SD
+http://acsc.cc:80/0672648180/fireurl.co/97597.ts
+#EXTINF:-1,TV Globo Fronteira Presidente Prudente FHD
+http://acsc.cc:80/0672648180/fireurl.co/97587.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente HD
+http://acsc.cc:80/0672648180/fireurl.co/97588.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente SD
+http://acsc.cc:80/0672648180/fireurl.co/131177.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://acsc.cc:80/0672648180/fireurl.co/131158.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://acsc.cc:80/0672648180/fireurl.co/131214.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://acsc.cc:80/0672648180/fireurl.co/131142.ts
+#EXTINF:-1,Globo TV Gazeta Sul FHD
+http://acsc.cc:80/0672648180/fireurl.co/131099.ts
+#EXTINF:-1,Globo TV Gazeta Sul HD
+http://acsc.cc:80/0672648180/fireurl.co/72059.ts
+#EXTINF:-1,Globo TV Gazeta Sul SD
+http://acsc.cc:80/0672648180/fireurl.co/72060.ts
+#EXTINF:-1,Globo TV Gazeta Vitória FHD
+http://acsc.cc:80/0672648180/fireurl.co/72061.ts
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+http://acsc.cc:80/0672648180/fireurl.co/131154.ts
+#EXTINF:-1,Globo TV Gazeta Vitória SD
+http://acsc.cc:80/0672648180/fireurl.co/131175.ts
+#EXTINF:-1,Globo TV Integração Araxa FHD
+http://acsc.cc:80/0672648180/fireurl.co/131203.ts
+#EXTINF:-1,Globo TV Integração Araxa HD
+http://acsc.cc:80/0672648180/fireurl.co/131126.ts
+#EXTINF:-1,Globo TV Integração Araxa SD
+http://acsc.cc:80/0672648180/fireurl.co/131140.ts
+#EXTINF:-1,Globo TV Integração Juiz de Fora FHD
+http://acsc.cc:80/0672648180/fireurl.co/72067.ts
+#EXTINF:-1,Globo TV Integração Juiz de Fora HD
+http://acsc.cc:80/0672648180/fireurl.co/72068.ts
+#EXTINF:-1,Globo TV Integração Juiz de Fora SD
+http://acsc.cc:80/0672648180/fireurl.co/131106.ts
+#EXTINF:-1,Globo TV Integração Uberaba FHD
+http://acsc.cc:80/0672648180/fireurl.co/133052.ts
+#EXTINF:-1,Globo TV Integração Uberaba HD
+http://acsc.cc:80/0672648180/fireurl.co/133053.ts
+#EXTINF:-1,Globo TV Integração Uberaba SD
+http://acsc.cc:80/0672648180/fireurl.co/133054.ts
+#EXTINF:-1,Globo TV Integração Uberlândia FHD
+http://acsc.cc:80/0672648180/fireurl.co/133051.ts
+#EXTINF:-1,Globo TV Integração Uberlândia HD
+http://acsc.cc:80/0672648180/fireurl.co/93598.ts
+#EXTINF:-1,Globo TV Integração Uberlândia SD
+http://acsc.cc:80/0672648180/fireurl.co/93599.ts
+#EXTINF:-1,Globo TV Liberal Belém FHD
+http://acsc.cc:80/0672648180/fireurl.co/131152.ts
+#EXTINF:-1,Globo TV Liberal Belém HD
+http://acsc.cc:80/0672648180/fireurl.co/72071.ts
+#EXTINF:-1,Globo TV Liberal Belém SD
+http://acsc.cc:80/0672648180/fireurl.co/72072.ts
+#EXTINF:-1,TV Globo Mirante Cocais FHD
+http://acsc.cc:80/0672648180/fireurl.co/133050.ts
+#EXTINF:-1,Globo TV Mirante Cocais HD
+http://acsc.cc:80/0672648180/fireurl.co/93600.ts
+#EXTINF:-1,Globo TV Mirante Cocais SD
+http://acsc.cc:80/0672648180/fireurl.co/93601.ts
+#EXTINF:-1,Globo TV Mirante Imperatriz HD
+http://acsc.cc:80/0672648180/fireurl.co/93602.ts
+#EXTINF:-1,Globo TV Mirante Imperatriz SD
+http://acsc.cc:80/0672648180/fireurl.co/93603.ts
+#EXTINF:-1,Globo TV Mirante São Luís FHD
+http://acsc.cc:80/0672648180/fireurl.co/131103.ts
+#EXTINF:-1,Globo TV Mirante São Luís HD
+http://acsc.cc:80/0672648180/fireurl.co/72074.ts
+#EXTINF:-1,Globo TV Mirante São Luís SD
+http://acsc.cc:80/0672648180/fireurl.co/131195.ts
+#EXTINF:-1,Tv Globo Morena FHD
+http://acsc.cc:80/0672648180/fireurl.co/72076.ts
+#EXTINF:-1,Tv Globo Morena HD
+http://acsc.cc:80/0672648180/fireurl.co/131169.ts
+#EXTINF:-1,Tv Globo Morena SD
+http://acsc.cc:80/0672648180/fireurl.co/131122.ts
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://acsc.cc:80/0672648180/fireurl.co/72079.ts
+#EXTINF:-1,Globo TV Rio Sul HD
+http://acsc.cc:80/0672648180/fireurl.co/131128.ts
+#EXTINF:-1,Globo TV Rio Sul SD
+http://acsc.cc:80/0672648180/fireurl.co/72082.ts
+#EXTINF:-1,Tv Globo Santa Cruz FHD
+http://acsc.cc:80/0672648180/fireurl.co/135420.ts
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://acsc.cc:80/0672648180/fireurl.co/135421.ts
+#EXTINF:-1,Globo TV Santa Cruz SD
+http://acsc.cc:80/0672648180/fireurl.co/135422.ts
+#EXTINF:-1,Globo TV Sergipe FHD
+http://acsc.cc:80/0672648180/fireurl.co/131156.ts
+#EXTINF:-1,Globo TV Sergipe HD
+http://acsc.cc:80/0672648180/fireurl.co/131181.ts
+#EXTINF:-1,Globo TV Sergipe SD
+http://acsc.cc:80/0672648180/fireurl.co/131139.ts
+#EXTINF:-1,Globo TV Subae HD
+http://acsc.cc:80/0672648180/fireurl.co/133068.ts
+#EXTINF:-1,Globo TV Subae FHD
+http://acsc.cc:80/0672648180/fireurl.co/133067.ts
+#EXTINF:-1,Globo TV Subae SD
+http://acsc.cc:80/0672648180/fireurl.co/133069.ts
+#EXTINF:-1,Globo TV Sudoeste FHD
+http://acsc.cc:80/0672648180/fireurl.co/72092.ts
+#EXTINF:-1,Globo TV Sudoeste HD
+http://acsc.cc:80/0672648180/fireurl.co/72093.ts
+#EXTINF:-1,Globo TV Sudoeste SD
+http://acsc.cc:80/0672648180/fireurl.co/72094.ts
+#EXTINF:-1,Globo TV TEM Bauru FHD
+http://acsc.cc:80/0672648180/fireurl.co/91431.ts
+#EXTINF:-1,Globo TV TEM Bauru HD
+http://acsc.cc:80/0672648180/fireurl.co/91432.ts
+#EXTINF:-1,Globo TV TEM Bauru SD
+http://acsc.cc:80/0672648180/fireurl.co/131120.ts
+#EXTINF:-1,Globo TV TEM Itapetininga FHD
+http://acsc.cc:80/0672648180/fireurl.co/91435.ts
+#EXTINF:-1,Globo TV TEM Itapetininga HD
+http://acsc.cc:80/0672648180/fireurl.co/91436.ts
+#EXTINF:-1,Globo TV TEM Itapetininga SD
+http://acsc.cc:80/0672648180/fireurl.co/131119.ts
+#EXTINF:-1,Globo TV TEM São José do Rio Preto FHD
+http://acsc.cc:80/0672648180/fireurl.co/131155.ts
+#EXTINF:-1,Globo TV TEM São José do Rio Preto HD
+http://acsc.cc:80/0672648180/fireurl.co/91434.ts
+#EXTINF:-1,Globo TV TEM São José do Rio Preto SD
+http://acsc.cc:80/0672648180/fireurl.co/131205.ts
+#EXTINF:-1,Globo TV TEM Sorocaba FHD
+http://acsc.cc:80/0672648180/fireurl.co/131191.ts
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://acsc.cc:80/0672648180/fireurl.co/91439.ts
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+http://acsc.cc:80/0672648180/fireurl.co/131194.ts
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+http://acsc.cc:80/0672648180/fireurl.co/131135.ts
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://acsc.cc:80/0672648180/fireurl.co/131165.ts
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://acsc.cc:80/0672648180/fireurl.co/131109.ts
+#EXTINF:-1,Globo TV Vanguarda SJ dos Campos FHD
+http://acsc.cc:80/0672648180/fireurl.co/131211.ts
+#EXTINF:-1,Globo TV Vanguarda SJ dos Campos HD
+http://acsc.cc:80/0672648180/fireurl.co/144027.ts
+#EXTINF:-1,Globo TV Vanguarda SJ dos Campos SD
+http://acsc.cc:80/0672648180/fireurl.co/72624.ts
+#EXTINF:-1,TV Globo Vanguarda Taubaté FHD
+http://acsc.cc:80/0672648180/fireurl.co/100375.ts
+#EXTINF:-1,Globo TV Vanguarda Taubaté HD
+http://acsc.cc:80/0672648180/fireurl.co/93605.ts
+#EXTINF:-1,Globo TV Vanguarda Taubaté SD
+http://acsc.cc:80/0672648180/fireurl.co/131187.ts
+#EXTINF:-1,Globo TV Verdes Mares 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/72080.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri FHD
+http://acsc.cc:80/0672648180/fireurl.co/91440.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD
+http://acsc.cc:80/0672648180/fireurl.co/91441.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri SD
+http://acsc.cc:80/0672648180/fireurl.co/91442.ts
+#EXTINF:-1,Globo TV Verdes Mares FHD
+http://acsc.cc:80/0672648180/fireurl.co/131161.ts
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://acsc.cc:80/0672648180/fireurl.co/72096.ts
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://acsc.cc:80/0672648180/fireurl.co/131137.ts
+#EXTINF:-1,Gloob 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103498.ts
+#EXTINF:-1,Gloob FHD
+http://acsc.cc:80/0672648180/fireurl.co/131153.ts
+#EXTINF:-1,Gloob FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72099.ts
+#EXTINF:-1,Gloob HD
+http://acsc.cc:80/0672648180/fireurl.co/72100.ts
+#EXTINF:-1,Gloob SD
+http://acsc.cc:80/0672648180/fireurl.co/131117.ts
+#EXTINF:-1,Gloobinho 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103497.ts
+#EXTINF:-1,Gloobinho FHD
+http://acsc.cc:80/0672648180/fireurl.co/90631.ts
+#EXTINF:-1,Gloobinho FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/90630.ts
+#EXTINF:-1,Gloobinho HD
+http://acsc.cc:80/0672648180/fireurl.co/90629.ts
+#EXTINF:-1,Gloobinho SD
+http://acsc.cc:80/0672648180/fireurl.co/131173.ts
+#EXTINF:-1,GNT 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90638.ts
+#EXTINF:-1,GNT FHD
+http://acsc.cc:80/0672648180/fireurl.co/72102.ts
+#EXTINF:-1,GNT FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72103.ts
+#EXTINF:-1,GNT HD
+http://acsc.cc:80/0672648180/fireurl.co/72104.ts
+#EXTINF:-1,GNT SD
+http://acsc.cc:80/0672648180/fireurl.co/131136.ts
+#EXTINF:-1,H2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90245.ts
+#EXTINF:-1,H2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72106.ts
+#EXTINF:-1,H2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72107.ts
+#EXTINF:-1,H2HD
+http://acsc.cc:80/0672648180/fireurl.co/72108.ts
+#EXTINF:-1,H2 SD
+http://acsc.cc:80/0672648180/fireurl.co/72109.ts
+#EXTINF:-1,HBO 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90246.ts
+#EXTINF:-1,HBO 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72110.ts
+#EXTINF:-1,HBO 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72111.ts
+#EXTINF:-1,HBO 2HD
+http://acsc.cc:80/0672648180/fireurl.co/72112.ts
+#EXTINF:-1,HBO 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/72113.ts
+#EXTINF:-1,HBO 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90247.ts
+#EXTINF:-1,Família HBO 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90637.ts
+#EXTINF:-1,Família HBO FHD
+http://acsc.cc:80/0672648180/fireurl.co/72114.ts
+#EXTINF:-1,Família HBO FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72115.ts
+#EXTINF:-1,HBO Family HD
+http://acsc.cc:80/0672648180/fireurl.co/72116.ts
+#EXTINF:-1,HBO Family SD
+http://acsc.cc:80/0672648180/fireurl.co/72117.ts
+#EXTINF:-1,HBO FHD
+http://acsc.cc:80/0672648180/fireurl.co/72118.ts
+#EXTINF:-1,HBO FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72119.ts
+#EXTINF:-1,HBO FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90698.ts
+#EXTINF:-1,HBO HD
+http://acsc.cc:80/0672648180/fireurl.co/72120.ts
+#EXTINF:-1,HBO HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90697.ts
+#EXTINF:-1,HBO Max 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140504.ts
+#EXTINF:-1,HBO Max 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/71904.ts
+#EXTINF:-1,HBO Max 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/140510.ts
+#EXTINF:-1,HBO Max 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140505.ts
+#EXTINF:-1,HBO Max 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/71905.ts
+#EXTINF:-1,HBO Max 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/140511.ts
+#EXTINF:-1,HBO Max 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140506.ts
+#EXTINF:-1,HBO Max 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/71906.ts
+#EXTINF:-1,HBO Max 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/140512.ts
+#EXTINF:-1,HBO Max 4 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140507.ts
+#EXTINF:-1,HBO Max 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/76673.ts
+#EXTINF:-1,HBO Max 4 SD
+http://acsc.cc:80/0672648180/fireurl.co/140513.ts
+#EXTINF:-1,HBO Max 5 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140508.ts
+#EXTINF:-1,HBO Max 5 HD
+http://acsc.cc:80/0672648180/fireurl.co/130196.ts
+#EXTINF:-1,HBO Max 5 SD
+http://acsc.cc:80/0672648180/fireurl.co/140514.ts
+#EXTINF:-1,HBO Max 6 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140509.ts
+#EXTINF:-1,HBO Max 6 HD
+http://acsc.cc:80/0672648180/fireurl.co/130197.ts
+#EXTINF:-1,HBO Max 6 SD
+http://acsc.cc:80/0672648180/fireurl.co/140515.ts
+#EXTINF:-1,HBO MUNDI 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103496.ts
+#EXTINF:-1,HBO Mundi FHD
+http://acsc.cc:80/0672648180/fireurl.co/72121.ts
+#EXTINF:-1,HBO Mundi FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72122.ts
+#EXTINF:-1,HBO Mundi FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90695.ts
+#EXTINF:-1,HBO Mundi HD
+http://acsc.cc:80/0672648180/fireurl.co/72123.ts
+#EXTINF:-1,HBO Mundi HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90694.ts
+#EXTINF:-1,HBO Mundi SD
+http://acsc.cc:80/0672648180/fireurl.co/72124.ts
+#EXTINF:-1,HBO Mundi SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90693.ts
+#EXTINF:-1,HBO Plus 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90635.ts
+#EXTINF:-1,HBO Plus FHD
+http://acsc.cc:80/0672648180/fireurl.co/72125.ts
+#EXTINF:-1,HBO Plus FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72126.ts
+#EXTINF:-1,HBO Plus FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90692.ts
+#EXTINF:-1,HBO Plus HD
+http://acsc.cc:80/0672648180/fireurl.co/72127.ts
+#EXTINF:-1,HBO Plus HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90691.ts
+#EXTINF:-1,HBO Plus SD
+http://acsc.cc:80/0672648180/fireurl.co/72128.ts
+#EXTINF:-1,HBO Plus SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90690.ts
+#EXTINF:-1,HBO POP 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103495.ts
+#EXTINF:-1,HBO Pop FHD
+http://acsc.cc:80/0672648180/fireurl.co/72129.ts
+#EXTINF:-1,HBO Pop FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72130.ts
+#EXTINF:-1,HBO Pop FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90689.ts
+#EXTINF:-1,HBO Pop HD
+http://acsc.cc:80/0672648180/fireurl.co/72131.ts
+#EXTINF:-1,HBO Pop HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90688.ts
+#EXTINF:-1,HBO Pop SD
+http://acsc.cc:80/0672648180/fireurl.co/72132.ts
+#EXTINF:-1,HBO Pop SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90687.ts
+#EXTINF:-1,HBO SD
+http://acsc.cc:80/0672648180/fireurl.co/72133.ts
+#EXTINF:-1,HBO SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90696.ts
+#EXTINF:-1,HBO Signature 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103494.ts
+#EXTINF:-1,HBO Signature FHD
+http://acsc.cc:80/0672648180/fireurl.co/72134.ts
+#EXTINF:-1,HBO Signature FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72135.ts
+#EXTINF:-1,HBO Signature FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90686.ts
+#EXTINF:-1,HBO Signature HD
+http://acsc.cc:80/0672648180/fireurl.co/72136.ts
+#EXTINF:-1,HBO Signature HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90685.ts
+#EXTINF:-1,Assinatura HBO SD
+http://acsc.cc:80/0672648180/fireurl.co/72137.ts
+#EXTINF:-1,Assinatura HBO SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90684.ts
+#EXTINF:-1,HBO Xtreme 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90636.ts
+#EXTINF:-1,HBO Xtreme FHD
+http://acsc.cc:80/0672648180/fireurl.co/72138.ts
+#EXTINF:-1,HBO Xtreme FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72139.ts
+#EXTINF:-1,HBO Xtreme FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90683.ts
+#EXTINF:-1,HBO Xtreme HD
+http://acsc.cc:80/0672648180/fireurl.co/72140.ts
+#EXTINF:-1,HBO Xtreme HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90682.ts
+#EXTINF:-1,HBO Xtreme SD
+http://acsc.cc:80/0672648180/fireurl.co/72141.ts
+#EXTINF:-1,HBO Xtreme SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90681.ts
+#EXTINF:-1,HGTV 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103493.ts
+#EXTINF:-1,HGTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/72142.ts
+#EXTINF:-1,HGTV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72143.ts
+#EXTINF:-1,HGTV HD
+http://acsc.cc:80/0672648180/fireurl.co/72144.ts
+#EXTINF:-1,HGTV SD
+http://acsc.cc:80/0672648180/fireurl.co/72145.ts
+#EXTINF:-1,Histórico 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90244.ts
+#EXTINF:-1,Histórico FHD
+http://acsc.cc:80/0672648180/fireurl.co/72146.ts
+#EXTINF:-1,Histórico FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72147.ts
+#EXTINF:-1,Histórico HD
+http://acsc.cc:80/0672648180/fireurl.co/72148.ts
+#EXTINF:-1,Histórico SD
+http://acsc.cc:80/0672648180/fireurl.co/72149.ts
+#EXTINF:-1,ID 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90243.ts
+#EXTINF:-1,ID FHD
+http://acsc.cc:80/0672648180/fireurl.co/72150.ts
+#EXTINF:-1,ID FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72151.ts
+#EXTINF:-1,ID HD
+http://acsc.cc:80/0672648180/fireurl.co/72152.ts
+#EXTINF:-1,ID SD
+http://acsc.cc:80/0672648180/fireurl.co/72153.ts
+#EXTINF:-1,Ilha Gravar FHD
+http://acsc.cc:80/0672648180/fireurl.co/105100.ts
+#EXTINF:-1,Jovem Pan News 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/134021.ts
+#EXTINF:-1,Jovem Pan News FHD
+http://acsc.cc:80/0672648180/fireurl.co/134023.ts
+#EXTINF:-1,Jovem Pan News FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/134022.ts
+#EXTINF:-1,Jovem Pan News HD
+http://acsc.cc:80/0672648180/fireurl.co/134024.ts
+#EXTINF:-1,Jovem Pan News SD
+http://acsc.cc:80/0672648180/fireurl.co/134025.ts
+#EXTINF:-1,FHDR 4K vitalício
+http://acsc.cc:80/0672648180/fireurl.co/103492.ts
+#EXTINF:-1,FHD vitalício
+http://acsc.cc:80/0672648180/fireurl.co/72154.ts
+#EXTINF:-1,FHD vitalício [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72155.ts
+#EXTINF:-1,HD Vitalício
+http://acsc.cc:80/0672648180/fireurl.co/72156.ts
+#EXTINF:-1,SD vitalício
+http://acsc.cc:80/0672648180/fireurl.co/72157.ts
+#EXTINF:-1,Liga Futsal 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/73006.ts
+#EXTINF:-1,Liga Futsal 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/109225.ts
+#EXTINF:-1,Liga Futsal 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/155741.ts
+#EXTINF:-1,Liga Futsal 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/155742.ts
+#EXTINF:-1,Liga Futsal 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/155743.ts
+#EXTINF:-1,Liga Futsal 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/155744.ts
+#EXTINF:-1,Liga Futsal 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/156663.ts
+#EXTINF:-1,Liga Futsal 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/156664.ts
+#EXTINF:-1,Liga Futsal 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/156665.ts
+#EXTINF:-1,Liga Futsal 4 FHD
+http://acsc.cc:80/0672648180/fireurl.co/156666.ts
+#EXTINF:-1,Liga Futsal 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/156667.ts
+#EXTINF:-1,Liga Futsal 4 SD
+http://acsc.cc:80/0672648180/fireurl.co/156668.ts
+#EXTINF:-1,Como 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103491.ts
+#EXTINF:-1,Como FHD
+http://acsc.cc:80/0672648180/fireurl.co/72158.ts
+#EXTINF:-1,Como FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72159.ts
+#EXTINF:-1,Curtir HD
+http://acsc.cc:80/0672648180/fireurl.co/72160.ts
+#EXTINF:-1,Like SD
+http://acsc.cc:80/0672648180/fireurl.co/72161.ts
+#EXTINF:-1,Live Casimito Brasileirao FHD
+http://acsc.cc:80/0672648180/fireurl.co/158007.ts
+#EXTINF:-1,Live Casimito Brasileiro HD
+http://acsc.cc:80/0672648180/fireurl.co/158008.ts
+#EXTINF:-1,Live Casimito Brasileiro SD
+http://acsc.cc:80/0672648180/fireurl.co/158009.ts
+#EXTINF:-1,Carregando FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104923.ts
+#EXTINF:-1,Carregando TV FHD
+http://acsc.cc:80/0672648180/fireurl.co/104921.ts
+#EXTINF:-1,Carregando TV HD
+http://acsc.cc:80/0672648180/fireurl.co/104922.ts
+#EXTINF:-1,Carregando TV SD
+http://acsc.cc:80/0672648180/fireurl.co/89700.ts
+#EXTINF:-1,Love Nature FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/73004.ts
+#EXTINF:-1,Mais na Tela 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103488.ts
+#EXTINF:-1,Mais na Tela FHD
+http://acsc.cc:80/0672648180/fireurl.co/72162.ts
+#EXTINF:-1,Mais na Tela FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72163.ts
+#EXTINF:-1,Mais na Tela HD
+http://acsc.cc:80/0672648180/fireurl.co/72164.ts
+#EXTINF:-1,Mais na Tela SD
+http://acsc.cc:80/0672648180/fireurl.co/72165.ts
+#EXTINF:-1,Mega TV FHD
+http://acsc.cc:80/0672648180/fireurl.co/104924.ts
+#EXTINF:-1,Mega TV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104933.ts
+#EXTINF:-1,Mega TV HD
+http://acsc.cc:80/0672648180/fireurl.co/104925.ts
+#EXTINF:-1,Mega TV SD
+http://acsc.cc:80/0672648180/fireurl.co/104926.ts
+#EXTINF:-1,Megapix 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/131104.ts
+#EXTINF:-1,Megapix FHD
+http://acsc.cc:80/0672648180/fireurl.co/72166.ts
+#EXTINF:-1,Megapix FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72167.ts
+#EXTINF:-1,Megapix FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90680.ts
+#EXTINF:-1,Megapix HD
+http://acsc.cc:80/0672648180/fireurl.co/72169.ts
+#EXTINF:-1,Megapix HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/131118.ts
+#EXTINF:-1,Megapix SD
+http://acsc.cc:80/0672648180/fireurl.co/131204.ts
+#EXTINF:-1,Megapix SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/131171.ts
+#EXTINF:-1,MTV 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103490.ts
+#EXTINF:-1,MTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/72171.ts
+#EXTINF:-1,MTV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72172.ts
+#EXTINF:-1,MTV HD
+http://acsc.cc:80/0672648180/fireurl.co/72173.ts
+#EXTINF:-1,MTV LIVE 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103489.ts
+#EXTINF:-1,MTV Live FHD
+http://acsc.cc:80/0672648180/fireurl.co/72174.ts
+#EXTINF:-1,MTV Live FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72175.ts
+#EXTINF:-1,MTV Live HD
+http://acsc.cc:80/0672648180/fireurl.co/72176.ts
+#EXTINF:-1,MTV Live SD
+http://acsc.cc:80/0672648180/fireurl.co/72177.ts
+#EXTINF:-1,MTV SD
+http://acsc.cc:80/0672648180/fireurl.co/72178.ts
+#EXTINF:-1,MTVs 00 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103451.ts
+#EXTINF:-1,MTVs 00 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72423.ts
+#EXTINF:-1,MTVs 00 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72424.ts
+#EXTINF:-1,MTVs 00 HD
+http://acsc.cc:80/0672648180/fireurl.co/72425.ts
+#EXTINF:-1,MTVs 00 SD
+http://acsc.cc:80/0672648180/fireurl.co/72426.ts
+#EXTINF:-1, Multishow 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/131138.ts
+#EXTINF:-1, Multishow FHD
+http://acsc.cc:80/0672648180/fireurl.co/131193.ts
+#EXTINF:-1, Multishow FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/131107.ts
+#EXTINF:-1,Multishow HD
+http://acsc.cc:80/0672648180/fireurl.co/72182.ts
+#EXTINF:-1,Multishow SD
+http://acsc.cc:80/0672648180/fireurl.co/131134.ts
+#EXTINF:-1,Caixa de Música Brasil 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103487.ts
+#EXTINF:-1,Caixa de Música Brasil FHD
+http://acsc.cc:80/0672648180/fireurl.co/72184.ts
+#EXTINF:-1,Caixa de Música Brasil FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72185.ts
+#EXTINF:-1,Caixa de Música Brasil HD
+http://acsc.cc:80/0672648180/fireurl.co/72186.ts
+#EXTINF:-1,Music Box Brasil SD
+http://acsc.cc:80/0672648180/fireurl.co/72187.ts
+#EXTINF:-1,MyCujoo TV 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/75026.ts
+#EXTINF:-1,MyCujoo TV 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/77583.ts
+#EXTINF:-1,MyCujoo TV 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/77584.ts
+#EXTINF:-1,Nat Geo Wild 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90242.ts
+#EXTINF:-1,Nat Geo Wild FHD
+http://acsc.cc:80/0672648180/fireurl.co/72192.ts
+#EXTINF:-1,Nat Geo Wild FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72193.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://acsc.cc:80/0672648180/fireurl.co/72194.ts
+#EXTINF:-1,Nat Geo Wild SD
+http://acsc.cc:80/0672648180/fireurl.co/72195.ts
+#EXTINF:-1,National Geographic 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/72198.ts
+#EXTINF:-1,National Geographic FHD
+http://acsc.cc:80/0672648180/fireurl.co/72196.ts
+#EXTINF:-1,National Geographic FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72197.ts
+#EXTINF:-1,National Geographic HD
+http://acsc.cc:80/0672648180/fireurl.co/72199.ts
+#EXTINF:-1,National Geographic SD
+http://acsc.cc:80/0672648180/fireurl.co/72200.ts
+#EXTINF:-1, NBA League Pass 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140516.ts
+#EXTINF:-1, NBA League Pass 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/140517.ts
+#EXTINF:-1, NBA League Pass 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/140518.ts
+#EXTINF:-1, NBA League Pass 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140519.ts
+#EXTINF:-1, NBA League Pass 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/140520.ts
+#EXTINF:-1, NBA League Pass 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/140521.ts
+#EXTINF:-1, NBA League Pass 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140522.ts
+#EXTINF:-1, NBA League Pass 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/140523.ts
+#EXTINF:-1, NBA League Pass 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/140524.ts
+#EXTINF:-1, NBA League Pass 4 FHD
+http://acsc.cc:80/0672648180/fireurl.co/140525.ts
+#EXTINF:-1, NBA League Pass 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/140526.ts
+#EXTINF:-1, NBA League Pass 4 SD
+http://acsc.cc:80/0672648180/fireurl.co/140527.ts
+#EXTINF:-1, NBA League Pass 5 FHD
+http://acsc.cc:80/0672648180/fireurl.co/141487.ts
+#EXTINF:-1, NBA League Pass 5 HD
+http://acsc.cc:80/0672648180/fireurl.co/141488.ts
+#EXTINF:-1, NBA League Pass 5 SD
+http://acsc.cc:80/0672648180/fireurl.co/141489.ts
+#EXTINF:-1, NBA League Pass 6 FHD
+http://acsc.cc:80/0672648180/fireurl.co/141490.ts
+#EXTINF:-1, NBA League Pass 6 HD
+http://acsc.cc:80/0672648180/fireurl.co/141491.ts
+#EXTINF:-1, NBA League Pass 6 SD
+http://acsc.cc:80/0672648180/fireurl.co/141492.ts
+#EXTINF:-1,NHK SD
+http://acsc.cc:80/0672648180/fireurl.co/91990.ts
+#EXTINF:-1,Nick Jr FHD
+http://acsc.cc:80/0672648180/fireurl.co/72201.ts
+#EXTINF:-1,Nick Jr FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72202.ts
+#EXTINF:-1,Nick Jr HD
+http://acsc.cc:80/0672648180/fireurl.co/72203.ts
+#EXTINF:-1,Nick Jr SD
+http://acsc.cc:80/0672648180/fireurl.co/72204.ts
+#EXTINF:-1,Nick Jr. 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103485.ts
+#EXTINF:-1,Nickelodeon 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90241.ts
+#EXTINF:-1,Nickelodeon FHD
+http://acsc.cc:80/0672648180/fireurl.co/72205.ts
+#EXTINF:-1,Nickelodeon FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72206.ts
+#EXTINF:-1,Nickelodeon HD
+http://acsc.cc:80/0672648180/fireurl.co/72207.ts
+#EXTINF:-1,Nickelodeon SD
+http://acsc.cc:80/0672648180/fireurl.co/72208.ts
+#EXTINF:-1,O Tempo Sports FHD
+http://acsc.cc:80/0672648180/fireurl.co/147524.ts
+#EXTINF:-1,O Tempo Sports HD
+http://acsc.cc:80/0672648180/fireurl.co/147525.ts
+#EXTINF:-1,O Tempo Sports SD
+http://acsc.cc:80/0672648180/fireurl.co/147526.ts
+#EXTINF:-1,OFF 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90240.ts
+#EXTINF:-1,OFF FHD
+http://acsc.cc:80/0672648180/fireurl.co/72209.ts
+#EXTINF:-1,OFF FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72210.ts
+#EXTINF:-1,OFF HD
+http://acsc.cc:80/0672648180/fireurl.co/72211.ts
+#EXTINF:-1,OFF SD
+http://acsc.cc:80/0672648180/fireurl.co/72212.ts
+#EXTINF:-1,Pai Eterno 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103484.ts
+#EXTINF:-1,Pai Eterno FHD
+http://acsc.cc:80/0672648180/fireurl.co/72213.ts
+#EXTINF:-1,Pai Eterno FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72216.ts
+#EXTINF:-1,Pai Eterno HD
+http://acsc.cc:80/0672648180/fireurl.co/72214.ts
+#EXTINF:-1,Pai Eterno SD
+http://acsc.cc:80/0672648180/fireurl.co/72215.ts
+#EXTINF:-1,Paramount Channel 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90634.ts
+#EXTINF:-1,Paramount Channel FHD
+http://acsc.cc:80/0672648180/fireurl.co/72217.ts
+#EXTINF:-1,Paramount Channel FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72218.ts
+#EXTINF:-1,Paramount Channel HD
+http://acsc.cc:80/0672648180/fireurl.co/72219.ts
+#EXTINF:-1,Paramount Channel SD
+http://acsc.cc:80/0672648180/fireurl.co/72220.ts
+#EXTINF:-1,Paulistao 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/147528.ts
+#EXTINF:-1,Paulistao 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/147529.ts
+#EXTINF:-1,Paulistao 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/147530.ts
+#EXTINF:-1,Paulistao 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/71943.ts
+#EXTINF:-1,Paulistao 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/71945.ts
+#EXTINF:-1,Paulistao 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/71946.ts
+#EXTINF:-1,Polishop TV SD
+http://acsc.cc:80/0672648180/fireur l.co/104927.ts
+#EXTINF:-1,Power Couple Brasil FHD
+http://acsc.cc:80/0672648180/fireurl.co/159319.ts
+#EXTINF:-1,Premier 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103482.ts
+#EXTINF:-1,Premier 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72237.ts
+#EXTINF:-1,Premier 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72238.ts
+#EXTINF:-1,Estreia 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/72239.ts
+#EXTINF:-1,Premier 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/72240.ts
+#EXTINF:-1,Premier 3 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103481.ts
+#EXTINF:-1,Premier 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72241.ts
+#EXTINF:-1,Premier 3 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72242.ts
+#EXTINF:-1,Estreia 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/72243.ts
+#EXTINF:-1,Premier 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/72244.ts
+#EXTINF:-1,Premier 4 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103480.ts
+#EXTINF:-1,Premier 4 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72245.ts
+#EXTINF:-1, Premier 4 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72246.ts
+#EXTINF:-1,Estreia 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/72247.ts
+#EXTINF:-1,Premier 4 SD
+http://acsc.cc:80/0672648180/fireurl.co/72248.ts
+#EXTINF:-1,Premier 5 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103479.ts
+#EXTINF:-1,Premier 5 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72249.ts
+#EXTINF:-1,Premier 5 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72250.ts
+#EXTINF:-1,Estreia 5 HD
+http://acsc.cc:80/0672648180/fireurl.co/72251.ts
+#EXTINF:-1,Premier 5 SD
+http://acsc.cc:80/0672648180/fireurl.co/72252.ts
+#EXTINF:-1,Premier 6 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103478.ts
+#EXTINF:-1,Premier 6 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72253.ts
+#EXTINF:-1,Premier 6 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72254.ts
+#EXTINF:-1,Estreia 6 HD
+http://acsc.cc:80/0672648180/fireurl.co/72255.ts
+#EXTINF:-1,Premier 6 SD
+http://acsc.cc:80/0672648180/fireurl.co/72256.ts
+#EXTINF:-1,Premier 7 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103477.ts
+#EXTINF:-1,Premier 7 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72257.ts
+#EXTINF:-1, Premiere 7 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72258.ts
+#EXTINF:-1,Estreia 7 HD
+http://acsc.cc:80/0672648180/fireurl.co/72259.ts
+#EXTINF:-1,Premier 7 SD
+http://acsc.cc:80/0672648180/fireurl.co/72260.ts
+#EXTINF:-1,Premier 8 SD
+http://acsc.cc:80/0672648180/fireurl.co/72261.ts
+#EXTINF:-1,Premiere Clubes 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/72264.ts
+#EXTINF:-1,Premiere Clubes FHD
+http://acsc.cc:80/0672648180/fireurl.co/72262.ts
+#EXTINF:-1,Premiere Clubes FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72263.ts
+#EXTINF:-1,Premiere Clubes HD
+http://acsc.cc:80/0672648180/fireurl.co/72265.ts
+#EXTINF:-1,Premiere Clubes SD
+http://acsc.cc:80/0672648180/fireurl.co/72266.ts
+#EXTINF:-1,Prime Box Brasil 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103476.ts
+#EXTINF:-1,Prime Box Brasil FHD
+http://acsc.cc:80/0672648180/fireurl.co/72267.ts
+#EXTINF:-1,Prime Box Brasil FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72268.ts
+#EXTINF:-1,Prime Box Brasil HD
+http://acsc.cc:80/0672648180/fireurl.co/72269.ts
+#EXTINF:-1,Prime Box Brasil SD
+http://acsc.cc:80/0672648180/fireurl.co/72270.ts
+#EXTINF:-1,PT: 24 Cozinha FHD
+http://acsc.cc:80/0672648180/fireurl.co/74798.ts
+#EXTINF:-1,PT: 24 Cozinha FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74799.ts
+#EXTINF:-1,PT: A Bola TV
+http://acsc.cc:80/0672648180/fireurl.co/74800.ts
+#EXTINF:-1,PT: A Bola TV FHD
+http://acsc.cc:80/0672648180/fireurl.co/74801.ts
+#EXTINF:-1,PT: Canal Afro Music
+http://acsc.cc:80/0672648180/fireurl.co/74802.ts
+#EXTINF:-1,PT: AMC
+http://acsc.cc:80/0672648180/fireurl.co/74803.ts
+#EXTINF:-1,PT: AMC FHD
+http://acsc.cc:80/0672648180/fireurl.co/74804.ts
+#EXTINF:-1,PT: AMC H265
+http://acsc.cc:80/0672648180/fireurl.co/74805.ts
+#EXTINF:-1,PT: ARTV Parlamento
+http://acsc.cc:80/0672648180/fireurl.co/74806.ts
+#EXTINF:-1,PT: AXN Preto
+http://acsc.cc:80/0672648180/fireurl.co/74807.ts
+#EXTINF:-1,PT: AXN Preto FHD
+http://acsc.cc:80/0672648180/fireurl.co/74808.ts
+#EXTINF:-1,PT: AXN Preto FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74809.ts
+#EXTINF:-1,PT: AXN FHD
+http://acsc.cc:80/0672648180/fireurl.co/74810.ts
+#EXTINF:-1,PT: AXN FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74811.ts
+#EXTINF:-1,PT: AXN Branco
+http://acsc.cc:80/0672648180/fireurl.co/74812.ts
+#EXTINF:-1,PT: AXN Branco FHD
+http://acsc.cc:80/0672648180/fireurl.co/74813.ts
+#EXTINF:-1,PT: AXN Branco FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74814.ts
+#EXTINF:-1,PT: Baby TV
+http://acsc.cc:80/0672648180/fireurl.co/74815.ts
+#EXTINF:-1,PT: BBC World News
+http://acsc.cc:80/0672648180/fireurl.co/74816.ts
+#EXTINF:-1,PT: Chama
+http://acsc.cc:80/0672648180/fireurl.co/74817.ts
+#EXTINF:-1,PT: Blaze FHD
+http://acsc.cc:80/0672648180/fireurl.co/74818.ts
+#EXTINF:-1,PT: Bloomberg
+http://acsc.cc:80/0672648180/fireurl.co/74819.ts
+#EXTINF:-1,PT: BTV
+http://acsc.cc:80/0672648180/fireurl.co/74821.ts
+#EXTINF:-1,PT: BTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/74823.ts
+#EXTINF:-1,PT: BTV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74824.ts
+#EXTINF:-1,PT: BTV HD
+http://acsc.cc:80/0672648180/fireurl.co/74825.ts
+#EXTINF:-1,PT: BTV SD
+http://acsc.cc:80/0672648180/fireurl.co/74822.ts
+#EXTINF:-1,PT: Cacavision
+http://acsc.cc:80/0672648180/fireurl.co/74826.ts
+#EXTINF:-1,PT: Canal 11
+http://acsc.cc:80/0672648180/fireurl.co/74827.ts
+#EXTINF:-1,PT: Canal 11 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74828.ts
+#EXTINF:-1,PT: Canal 11 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74829.ts
+#EXTINF:-1,PT: Canal História
+http://acsc.cc:80/0672648180/fireurl.co/74830.ts
+#EXTINF:-1,PT: Canal Panda
+http://acsc.cc:80/0672648180/fireurl.co/74831.ts
+#EXTINF:-1,PT: Canal Q
+http://acsc.cc:80/0672648180/fireurl.co/74832.ts
+#EXTINF:-1,PT: CANCAO NOVA
+http://acsc.cc:80/0672648180/fireurl.co/74833.ts
+#EXTINF:-1,PT: Cartoon Network
+http://acsc.cc:80/0672648180/fireurl.co/74834.ts
+#EXTINF:-1,PT: Caza e Pesca
+http://acsc.cc:80/0672648180/fireurl.co/74835.ts
+#EXTINF:-1,PT: CBS Reality
+http://acsc.cc:80/0672648180/fireurl.co/74836.ts
+#EXTINF:-1,PT: CineMundo
+http://acsc.cc:80/0672648180/fireurl.co/74837.ts
+#EXTINF:-1,PT: CineMundo FHD
+http://acsc.cc:80/0672648180/fireurl.co/74838.ts
+#EXTINF:-1,PT: TV de boate
+http://acsc.cc:80/0672648180/fireurl.co/74839.ts
+#EXTINF:-1,PT: CMTV
+http://acsc.cc:80/0672648180/fireurl.co/74840.ts
+#EXTINF:-1,PT: CMTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/74841.ts
+#EXTINF:-1,PT:CNBC
+http://acsc.cc:80/0672648180/fireurl.co/74842.ts
+#EXTINF:-1,PT: CNN
+http://acsc.cc:80/0672648180/fireurl.co/74843.ts
+#EXTINF:-1,PT: Investigação Criminal
+http://acsc.cc:80/0672648180/fireurl.co/74844.ts
+#EXTINF:-1,PT: Discovery Channel
+http://acsc.cc:80/0672648180/fireurl.co/74845.ts
+#EXTINF:-1,PT: Discovery Channel FHD
+http://acsc.cc:80/0672648180/fireurl.co/74846.ts
+#EXTINF:-1,PT: Descoberta FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74847.ts
+#EXTINF:-1,PT: Disney Channel
+http://acsc.cc:80/0672648180/fireurl.co/74848.ts
+#EXTINF:-1,PT: Disney Junior
+http://acsc.cc:80/0672648180/fireurl.co/74849.ts
+#EXTINF:-1,PT: E! Entretenimento
+http://acsc.cc:80/0672648180/fireurl.co/74851.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74853.ts
+#EXTINF:-1,PT: Onze Sports 1 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74854.ts
+#EXTINF:-1,PT: Onze Esportes 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/74855.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74857.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74858.ts
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/74859.ts
+#EXTINF:-1,PT: Eleven Sports 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/74856.ts
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74861.ts
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/74862.ts
+#EXTINF:-1,PT: Eleven Sports 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/74860.ts
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/74865.ts
+#EXTINF:-1,PT: Eleven Sports 4 SD
+http://acsc.cc:80/0672648180/fireurl.co/74863.ts
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74867.ts
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://acsc.cc:80/0672648180/fireurl.co/74868.ts
+#EXTINF:-1,PT: Eleven Sports 5 SD
+http://acsc.cc:80/0672648180/fireurl.co/74866.ts
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74870.ts
+#EXTINF:-1,PT: Eleven Sports 6 SD
+http://acsc.cc:80/0672648180/fireurl.co/74869.ts
+#EXTINF:-1,PT: Euronews
+http://acsc.cc:80/0672648180/fireurl.co/74871.ts
+#EXTINF:-1,PT: Eurosport 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74872.ts
+#EXTINF:-1,PT: EuroSport 1 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74873.ts
+#EXTINF:-1,PT: Eurosport 2
+http://acsc.cc:80/0672648180/fireurl.co/74874.ts
+#EXTINF:-1,PT: TV de moda
+http://acsc.cc:80/0672648180/fireurl.co/74875.ts
+#EXTINF:-1,PT: Fight Network FHD
+http://acsc.cc:80/0672648180/fireurl.co/74876.ts
+#EXTINF:-1,PT: Fine Living Network FHD
+http://acsc.cc:80/0672648180/fireurl.co/74877.ts
+#EXTINF:-1,PT: Food Network FHD
+http://acsc.cc:80/0672648180/fireurl.co/74878.ts
+#EXTINF:-1,PT: Raposa
+http://acsc.cc:80/0672648180/fireurl.co/74879.ts
+#EXTINF:-1,PT: Fox Comedy
+http://acsc.cc:80/0672648180/fireurl.co/74880.ts
+#EXTINF:-1,PT: Fox Comedy FHD
+http://acsc.cc:80/0672648180/fireurl.co/74881.ts
+#EXTINF:-1,PT: Fox Crime
+http://acsc.cc:80/0672648180/fireurl.co/74882.ts
+#EXTINF:-1,PT: Fox Crime FHD
+http://acsc.cc:80/0672648180/fireurl.co/74883.ts
+#EXTINF:-1,PT: FOX Crime FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74884.ts
+#EXTINF:-1,PT: Fox FHD
+http://acsc.cc:80/0672648180/fireurl.co/74885.ts
+#EXTINF:-1,PT: FOX FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74886.ts
+#EXTINF:-1,PT: Vida de Raposa
+http://acsc.cc:80/0672648180/fireurl.co/74887.ts
+#EXTINF:-1,PT: Fox Life FHD
+http://acsc.cc:80/0672648180/fireurl.co/74888.ts
+#EXTINF:-1,PT: FOX Life FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74889.ts
+#EXTINF:-1,PT: Fox Filmes
+http://acsc.cc:80/0672648180/fireurl.co/74890.ts
+#EXTINF:-1,PT: Fox Filmes FHD
+http://acsc.cc:80/0672648180/fireurl.co/74891.ts
+#EXTINF:-1,PT: Fox News
+http://acsc.cc:80/0672648180/fireurl.co/74892.ts
+#EXTINF:-1,PT: Combustível TV
+http://acsc.cc:80/0672648180/fireurl.co/74893.ts
+#EXTINF:-1,PT: Abastecer TV FHD
+http://acsc.cc:80/0672648180/fireurl.co/74894.ts
+#EXTINF:-1,PT: Hollywood
+http://acsc.cc:80/0672648180/fireurl.co/74895.ts
+#EXTINF:-1,PT: Hollywood FHD
+http://acsc.cc:80/0672648180/fireurl.co/74896.ts
+#EXTINF:-1,PT: Hollywood FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74897.ts
+#EXTINF:-1,PT: IConcertos FHD
+http://acsc.cc:80/0672648180/fireurl.co/74898.ts
+#EXTINF:-1,PT: ID Investigation Discovery FHD
+http://acsc.cc:80/0672648180/fireurl.co/74899.ts
+#EXTINF:-1,PT: Jim Jam
+http://acsc.cc:80/0672648180/fireurl.co/74900.ts
+#EXTINF:-1,PT: Kombat Sport
+http://acsc.cc:80/0672648180/fireurl.co/74901.ts
+#EXTINF:-1,PT: LocalVisao HD
+http://acsc.cc:80/0672648180/fireurl.co/74902.ts
+#EXTINF:-1,PT: Luxe.TV FHD
+http://acsc.cc:80/0672648180/fireurl.co/74903.ts
+#EXTINF:-1,PT: MCM Pop
+http://acsc.cc:80/0672648180/fireurl.co/74904.ts
+#EXTINF:-1,PT: MCM Topo
+http://acsc.cc:80/0672648180/fireurl.co/74905.ts
+#EXTINF:-1,PT: Mezzo
+http://acsc.cc:80/0672648180/fireurl.co/74906.ts
+#EXTINF:-1,PT: Motorvision
+http://acsc.cc:80/0672648180/fireurl.co/74907.ts
+#EXTINF:-1,PT: MTV Portugal
+http://acsc.cc:80/0672648180/fireurl.co/74908.ts
+#EXTINF:-1,PT: MTV Portugal FHD
+http://acsc.cc:80/0672648180/fireurl.co/74909.ts
+#EXTINF:-1,PT: TV MVM
+http://acsc.cc:80/0672648180/fireurl.co/74910.ts
+#EXTINF:-1,PT: Minha Cozinha
+http://acsc.cc:80/0672648180/fireurl.co/74911.ts
+#EXTINF:-1,PT: Nat Geo
+http://acsc.cc:80/0672648180/fireurl.co/74912.ts
+#EXTINF:-1,PT: Nat Geo FHD
+http://acsc.cc:80/0672648180/fireurl.co/74913.ts
+#EXTINF:-1,PT: Nat Geo FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74914.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://acsc.cc:80/0672648180/fireurl.co/74915.ts
+#EXTINF:-1,PT: Nat Geo Wild FHD
+http://acsc.cc:80/0672648180/fireurl.co/74916.ts
+#EXTINF:-1,PT: NBA
+http://acsc.cc:80/0672648180/fireurl.co/74917.ts
+#EXTINF:-1,PT: NBA FHD
+http://acsc.cc:80/0672648180/fireurl.co/74918.ts
+#EXTINF:-1,PT: Nick JR.
+http://acsc.cc:80/0672648180/fireurl.co/74919.ts
+#EXTINF:-1,PT: Nickelodeon
+http://acsc.cc:80/0672648180/fireurl.co/74920.ts
+#EXTINF:-1,PT: NOS Studios
+http://acsc.cc:80/0672648180/fireurl.co/74921.ts
+#EXTINF:-1,PT: NOS Studios FHD
+http://acsc.cc:80/0672648180/fireurl.co/74922.ts
+#EXTINF:-1,PT: NOS Studios FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74923.ts
+#EXTINF:-1,PT: Odisseia
+http://acsc.cc:80/0672648180/fireurl.co/74924.ts
+#EXTINF:-1,PT: Odisseia FHD
+http://acsc.cc:80/0672648180/fireurl.co/74925.ts
+#EXTINF:-1,PT: Panda Biggs
+http://acsc.cc:80/0672648180/fireurl.co/74926.ts
+#EXTINF:-1,PT: PFC
+http://acsc.cc:80/0672648180/fireurl.co/74927.ts
+#EXTINF:-1,PT: Porto Canal
+http://acsc.cc:80/0672648180/fireurl.co/74928.ts
+#EXTINF:-1,PT: Porto Canal FHD
+http://acsc.cc:80/0672648180/fireurl.co/74929.ts
+#EXTINF:-1,PT: RECORD TV (NA)
+http://acsc.cc:80/0672648180/fireurl.co/74930.ts
+#EXTINF:-1,PT: RTP 1
+http://acsc.cc:80/0672648180/fireurl.co/74931.ts
+#EXTINF:-1,PT: RTP 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74932.ts
+#EXTINF:-1,PT: RTP 1 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74933.ts
+#EXTINF:-1,PT: RTP 2
+http://acsc.cc:80/0672648180/fireurl.co/74934.ts
+#EXTINF:-1,PT: RTP 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74935.ts
+#EXTINF:-1,PT: RTP 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74936.ts
+#EXTINF:-1,PT: RTP 3
+http://acsc.cc:80/0672648180/fireurl.co/74937.ts
+#EXTINF:-1,PT: RTP 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74938.ts
+#EXTINF:-1,PT: RTP Acores
+http://acsc.cc:80/0672648180/fireurl.co/74939.ts
+#EXTINF:-1,PT: RTP África
+http://acsc.cc:80/0672648180/fireurl.co/74940.ts
+#EXTINF:-1,PT: RTP Madeira
+http://acsc.cc:80/0672648180/fireurl.co/74941.ts
+#EXTINF:-1,PT: Memória RTP
+http://acsc.cc:80/0672648180/fireurl.co/74942.ts
+#EXTINF:-1,PT: Santuário Fátima
+http://acsc.cc:80/0672648180/fireurl.co/74943.ts
+#EXTINF:-1,PT: Saude FHD
+http://acsc.cc:80/0672648180/fireurl.co/74944.ts
+#EXTINF:-1,PT: SIC
+http://acsc.cc:80/0672648180/fireurl.co/74945.ts
+#EXTINF:-1,PT: SIC Caras
+http://acsc.cc:80/0672648180/fireurl.co/74946.ts
+#EXTINF:-1,PT: SIC Caras FHD
+http://acsc.cc:80/0672648180/fireurl.co/74947.ts
+#EXTINF:-1,PT: SIC FHD
+http://acsc.cc:80/0672648180/fireurl.co/74948.ts
+#EXTINF:-1,PT: SIC FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74949.ts
+#EXTINF:-1,PT: Sic Kids FHD
+http://acsc.cc:80/0672648180/fireurl.co/74950.ts
+#EXTINF:-1,PT: SIC Mulher
+http://acsc.cc:80/0672648180/fireurl.co/74951.ts
+#EXTINF:-1,PT: SIC Mulher FHD
+http://acsc.cc:80/0672648180/fireurl.co/74952.ts
+#EXTINF:-1,PT: SIC Noticias
+http://acsc.cc:80/0672648180/fireurl.co/74953.ts
+#EXTINF:-1,PT: SIC Noticias FHD
+http://acsc.cc:80/0672648180/fireurl.co/74954.ts
+#EXTINF:-1,PT: SIC Radical
+http://acsc.cc:80/0672648180/fireurl.co/74955.ts
+#EXTINF:-1,PT: SIC Radical FHD
+http://acsc.cc:80/0672648180/fireurl.co/74956.ts
+#EXTINF:-1,PT: Sky News
+http://acsc.cc:80/0672648180/fireurl.co/74957.ts
+#EXTINF:-1,PT: Sport TV 1
+http://acsc.cc:80/0672648180/fireurl.co/74958.ts
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74960.ts
+#EXTINF:-1,PT: Sport TV 1 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74961.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/74962.ts
+#EXTINF:-1,PT: Sport TV 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/74959.ts
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74965.ts
+#EXTINF:-1,PT: Sport TV 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74966.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/74967.ts
+#EXTINF:-1,PT: Sport TV 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/74964.ts
+#EXTINF:-1,PT: Sport TV 3
+http://acsc.cc:80/0672648180/fireurl.co/74968.ts
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74969.ts
+#EXTINF:-1,PT: Sport TV 3 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74970.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/74971.ts
+#EXTINF:-1,PT: Sport TV 4
+http://acsc.cc:80/0672648180/fireurl.co/74972.ts
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74973.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/74974.ts
+#EXTINF:-1,PT: Sport TV 5
+http://acsc.cc:80/0672648180/fireurl.co/74975.ts
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://acsc.cc:80/0672648180/fireurl.co/74976.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://acsc.cc:80/0672648180/fireurl.co/74977.ts
+#EXTINF:-1,PT: Sport TV NBA FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/74978.ts
+#EXTINF:-1,PT: Sport TV+
+http://acsc.cc:80/0672648180/fireurl.co/74979.ts
+#EXTINF:-1,PT: Sport TV+ FHD
+http://acsc.cc:80/0672648180/fireurl.co/74980.ts
+#EXTINF:-1,PT: Sporting TV
+http://acsc.cc:80/0672648180/fireurl.co/74981.ts
+#EXTINF:-1,PT: Sporting TV FHD
+http://acsc.cc:80/0672648180/fireurl.co/74982.ts
+#EXTINF:-1,PT: SyFy
+http://acsc.cc:80/0672648180/fireurl.co/74983.ts
+#EXTINF:-1,PT: SyFy FHD
+http://acsc.cc:80/0672648180/fireurl.co/74984.ts
+#EXTINF:-1,PT: TCV Internacional
+http://acsc.cc:80/0672648180/fireurl.co/74985.ts
+#EXTINF:-1,PT: TPA Internacional
+http://acsc.cc:80/0672648180/fireurl.co/74989.ts
+#EXTINF:-1,PT: Trace & Urban
+http://acsc.cc:80/0672648180/fireurl.co/74990.ts
+#EXTINF:-1,PT: Trace & Urban FHD
+http://acsc.cc:80/0672648180/fireurl.co/74991.ts
+#EXTINF:-1,PT: Trace Toca
+http://acsc.cc:80/0672648180/fireurl.co/74992.ts
+#EXTINF:-1,PT: Canal de viagem
+http://acsc.cc:80/0672648180/fireurl.co/74993.ts
+#EXTINF:-1,PT: Canal de viagem FHD
+http://acsc.cc:80/0672648180/fireurl.co/74994.ts
+#EXTINF:-1,PT: TV Globo
+http://acsc.cc:80/0672648180/fireurl.co/131218.ts
+#EXTINF:-1,PT: TV Globo FHD
+http://acsc.cc:80/0672648180/fireurl.co/131216.ts
+#EXTINF:-1,PT: TV Globo AGORA
+http://acsc.cc:80/0672648180/fireurl.co/131208.ts
+#EXTINF:-1,PT: GRAVAÇÃO DE TV
+http://acsc.cc:80/0672648180/fireurl.co/74998.ts
+#EXTINF:-1,PT: Gravação de TV FHD
+http://acsc.cc:80/0672648180/fireurl.co/74999.ts
+#EXTINF:-1,PT: Série de TV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/75000.ts
+#EXTINF:-1,PT: TVC News
+http://acsc.cc:80/0672648180/fireurl.co/75001.ts
+#EXTINF:-1,PT: AÇÃO TVCine
+http://acsc.cc:80/0672648180/fireurl.co/75002.ts
+#EXTINF:-1,PT: TVCine ACTION FHD
+http://acsc.cc:80/0672648180/fireurl.co/75003.ts
+#EXTINF:-1,PT: TVCine Action FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/75004.ts
+#EXTINF:-1,PT: EDIÇÃO TVCine
+http://acsc.cc:80/0672648180/fireurl.co/75005.ts
+#EXTINF:-1,PT: TVCine EDITION FHD
+http://acsc.cc:80/0672648180/fireurl.co/75006.ts
+#EXTINF:-1,PT: TVCine Edition FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/75007.ts
+#EXTINF:-1,PT: TVCine EMOÇÃO
+http://acsc.cc:80/0672648180/fireurl.co/75008.ts
+#EXTINF:-1,PT: TVCine EMOTION FHD
+http://acsc.cc:80/0672648180/fireurl.co/75009.ts
+#EXTINF:-1,PT: TVCine Emotion FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/75010.ts
+#EXTINF:-1,PT: TVCine TOP
+http://acsc.cc:80/0672648180/fireurl.co/75011.ts
+#EXTINF:-1,PT: TVCine TOP FHD
+http://acsc.cc:80/0672648180/fireurl.co/75012.ts
+#EXTINF:-1,PT: TVCine Top FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/75013.ts
+#EXTINF:-1,PT: TVI
+http://acsc.cc:80/0672648180/fireurl.co/75014.ts
+#EXTINF:-1,PT: TVI 24
+http://acsc.cc:80/0672648180/fireurl.co/75015.ts
+#EXTINF:-1,PT: TVI 24 FHD
+http://acsc.cc:80/0672648180/fireurl.co/75016.ts
+#EXTINF:-1,PT: TVI FHD
+http://acsc.cc:80/0672648180/fireurl.co/75017.ts
+#EXTINF:-1,PT: TVI Ficção
+http://acsc.cc:80/0672648180/fireurl.co/75018.ts
+#EXTINF:-1,PT: TVI Ficção FHD
+http://acsc.cc:80/0672648180/fireurl.co/75019.ts
+#EXTINF:-1,PT: TVI Realidade
+http://acsc.cc:80/0672648180/fireurl.co/75021.ts
+#EXTINF:-1,PT: TVI Reality FHD
+http://acsc.cc:80/0672648180/fireurl.co/75022.ts
+#EXTINF:-1,PT: VH1
+http://acsc.cc:80/0672648180/fireurl.co/75023.ts
+#EXTINF:-1,PT: VH1 Classic
+http://acsc.cc:80/0672648180/fireurl.co/75024.ts
+#EXTINF:-1,PT: ZAP Viva FHD
+http://acsc.cc:80/0672648180/fireurl.co/75025.ts
+#EXTINF:-1,Record News FHD
+http://acsc.cc:80/0672648180/fireurl.co/72271.ts
+#EXTINF:-1,Record News HD
+http://acsc.cc:80/0672648180/fireurl.co/72272.ts
+#EXTINF:-1,Record News SD
+http://acsc.cc:80/0672648180/fireurl.co/72273.ts
+#EXTINF:-1,RecordTV Atalaia HD
+http://acsc.cc:80/0672648180/fireurl.co/111242.ts
+#EXTINF:-1,RecordTV BA HD
+http://acsc.cc:80/0672648180/fireurl.co/72976.ts
+#EXTINF:-1,RecordTV Belém FHD
+http://acsc.cc:80/0672648180/fireurl.co/102254.ts
+#EXTINF:-1,RecordTV Belém HD
+http://acsc.cc:80/0672648180/fireurl.co/96523.ts
+#EXTINF:-1,RecordTV Belém SD
+http://acsc.cc:80/0672648180/fireurl.co/73262.ts
+#EXTINF:-1,RecordTV Brasília HD
+http://acsc.cc:80/0672648180/fireurl.co/72629.ts
+#EXTINF:-1,RecordTV Brasília SD
+http://acsc.cc:80/0672648180/fireurl.co/96524.ts
+#EXTINF:-1,RecordTV Cabrália HD
+http://acsc.cc:80/0672648180/fireurl.co/72275.ts
+#EXTINF:-1,RecordTV GO FHD
+http://acsc.cc:80/0672648180/fireurl.co/102253.ts
+#EXTINF:-1,RecordTV GO HD
+http://acsc.cc:80/0672648180/fireurl.co/72278.ts
+#EXTINF:-1,RecordTV GO SD
+http://acsc.cc:80/0672648180/fireurl.co/72279.ts
+#EXTINF:-1,RecordTV Interior RJ FHD
+http://acsc.cc:80/0672648180/fireurl.co/102255.ts
+#EXTINF:-1,RecordTV Interior RJ HD
+http://acsc.cc:80/0672648180/fireurl.co/102256.ts
+#EXTINF:-1,RecordTV Interior RJ SD
+http://acsc.cc:80/0672648180/fireurl.co/102257.ts
+#EXTINF:-1,RecordTV Interior SP FHD
+http://acsc.cc:80/0672648180/fireurl.co/102258.ts
+#EXTINF:-1,RecordTV Interior SP HD
+http://acsc.cc:80/0672648180/fireurl.co/102259.ts
+#EXTINF:-1,RecordTV Interior SP SD
+http://acsc.cc:80/0672648180/fireurl.co/102260.ts
+#EXTINF:-1,RecordTV Itapoan FHD
+http://acsc.cc:80/0672648180/fireurl.co/157406.ts
+#EXTINF:-1,RecordTV Itapoan HD
+http://acsc.cc:80/0672648180/fireurl.co/72284.ts
+#EXTINF:-1,RecordTV Itapoan SD
+http://acsc.cc:80/0672648180/fireurl.co/72285.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraíba FHD
+http://acsc.cc:80/0672648180/fireurl.co/102261.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraíba HD
+http://acsc.cc:80/0672648180/fireurl.co/102262.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraíba SD
+http://acsc.cc:80/0672648180/fireurl.co/102263.ts
+#EXTINF:-1,RecordTV MG FHD
+http://acsc.cc:80/0672648180/fireurl.co/102252.ts
+#EXTINF:-1,RecordTV MG HD
+http://acsc.cc:80/0672648180/fireurl.co/72619.ts
+#EXTINF:-1,RecordTV MG SD
+http://acsc.cc:80/0672648180/fireurl.co/96525.ts
+#EXTINF:-1,RecordTV RJ FHD
+http://acsc.cc:80/0672648180/fireurl.co/106638.ts
+#EXTINF:-1,RecordTV RJ HD
+http://acsc.cc:80/0672648180/fireurl.co/72594.ts
+#EXTINF:-1,RecordTV RJ SD
+http://acsc.cc:80/0672648180/fireurl.co/96526.ts
+#EXTINF:-1,RecordTV RS FHD
+http://acsc.cc:80/0672648180/fireurl.co/102251.ts
+#EXTINF:-1,RecordTV RS HD
+http://acsc.cc:80/0672648180/fireurl.co/72974.ts
+#EXTINF:-1,RecordTV RS SD
+http://acsc.cc:80/0672648180/fireurl.co/72975.ts
+#EXTINF:-1,RecordTV São José do Rio Preto FHD
+http://acsc.cc:80/0672648180/fireurl.co/102264.ts
+#EXTINF:-1,RecordTV São José do Rio Preto HD
+http://acsc.cc:80/0672648180/fireurl.co/102265.ts
+#EXTINF:-1,RecordTV São José do Rio Preto SD
+http://acsc.cc:80/0672648180/fireurl.co/102266.ts
+#EXTINF:-1,RecordTV SP FHD
+http://acsc.cc:80/0672648180/fireurl.co/77654.ts
+#EXTINF:-1,RecordTV SP FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72595.ts
+#EXTINF:-1,RecordTV SP HD
+http://acsc.cc:80/0672648180/fireurl.co/72973.ts
+#EXTINF:-1,RecordTV SP SD
+http://acsc.cc:80/0672648180/fireurl.co/96522.ts
+#EXTINF:-1,Rede 21 SD
+http://acsc.cc:80/0672648180/fireurl.co/104928.ts
+#EXTINF:-1,Rede Gospel FHD
+http://acsc.cc:80/0672648180/fireurl.co/104929.ts
+#EXTINF:-1,Rede Gospel FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104932.ts
+#EXTINF:-1,Rede Gospel HD
+http://acsc.cc:80/0672648180/fireurl.co/104930.ts
+#EXTINF:-1,Rede Gospel SD
+http://acsc.cc:80/0672648180/fireurl.co/104931.ts
+#EXTINF:-1,Rede Vida 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103475.ts
+#EXTINF:-1,Rede Vida FHD
+http://acsc.cc:80/0672648180/fireurl.co/72293.ts
+#EXTINF:-1,Rede Vida FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72294.ts
+#EXTINF:-1,Rede Vida HD
+http://acsc.cc:80/0672648180/fireurl.co/72295.ts
+#EXTINF:-1,Rede Vida SD
+http://acsc.cc:80/0672648180/fireurl.co/72296.ts
+#EXTINF:-1,RedeTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/72297.ts
+#EXTINF:-1,RedeTV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72298.ts
+#EXTINF:-1,RedeTV HD
+http://acsc.cc:80/0672648180/fireurl.co/72299.ts
+#EXTINF:-1,RedeTV SD
+http://acsc.cc:80/0672648180/fireurl.co/72300.ts
+#EXTINF:-1,RIT TV SD
+http://acsc.cc:80/0672648180/fireurl.co/72301.ts
+#EXTINF:-1,Sabor & Arte 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/112013.ts
+#EXTINF:-1,Sabor & Arte FHD
+http://acsc.cc:80/0672648180/fireurl.co/112017.ts
+#EXTINF:-1,Sabor & Arte FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/112014.ts
+#EXTINF:-1,Sabor & Arte HD
+http://acsc.cc:80/0672648180/fireurl.co/112016.ts
+#EXTINF:-1,Sabor & Arte SD
+http://acsc.cc:80/0672648180/fireurl.co/112015.ts
+#EXTINF:-1,SBT Rede Massa PR FHD
+http://acsc.cc:80/0672648180/fireurl.co/72303.ts
+#EXTINF:-1,SBT Rede Massa PR HD
+http://acsc.cc:80/0672648180/fireurl.co/72305.ts
+#EXTINF:-1,SBT Rede Massa PR SD
+http://acsc.cc:80/0672648180/fireurl.co/72306.ts
+#EXTINF:-1,SBT RJ FHD
+http://acsc.cc:80/0672648180/fireurl.co/108681.ts
+#EXTINF:-1,SBT RJ HD
+http://acsc.cc:80/0672648180/fireurl.co/108682.ts
+#EXTINF:-1,SBT RJ SD
+http://acsc.cc:80/0672648180/fireurl.co/108683.ts
+#EXTINF:-1,SBT RS HD
+http://acsc.cc:80/0672648180/fireurl.co/75028.ts
+#EXTINF:-1,SBT SP FHD
+http://acsc.cc:80/0672648180/fireurl.co/77963.ts
+#EXTINF:-1,SBT SP FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104939.ts
+#EXTINF:-1,SBT SP HD
+http://acsc.cc:80/0672648180/fireurl.co/72598.ts
+#EXTINF:-1,SBT SP SD
+http://acsc.cc:80/0672648180/fireurl.co/77964.ts
+#EXTINF:-1,SBT TV Alterosa HD
+http://acsc.cc:80/0672648180/fireurl.co/72621.ts
+#EXTINF:-1,Shoptime SD
+http://acsc.cc:80/0672648180/fireurl.co/72311.ts
+#EXTINF:-1,SIC Internacional SD
+http://acsc.cc:80/0672648180/fireurl.co/72312.ts
+#EXTINF:-1,Smithsonian 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103473.ts
+#EXTINF:-1,Smithsonian FHD
+http://acsc.cc:80/0672648180/fireurl.co/72313.ts
+#EXTINF:-1,Smithsonian FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72314.ts
+#EXTINF:-1,Smithsonian HD
+http://acsc.cc:80/0672648180/fireurl.co/72315.ts
+#EXTINF:-1,Smithsonian SD
+http://acsc.cc:80/0672648180/fireurl.co/72316.ts
+#EXTINF:-1,Espaço 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90633.ts
+#EXTINF:-1,Espaço FHD
+http://acsc.cc:80/0672648180/fireurl.co/72317.ts
+#EXTINF:-1,Espaço FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72318.ts
+#EXTINF:-1,Espaço FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90677.ts
+#EXTINF:-1,Espaço HD
+http://acsc.cc:80/0672648180/fireurl.co/72319.ts
+#EXTINF:-1,Espaço HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90676.ts
+#EXTINF:-1,Espaço SD
+http://acsc.cc:80/0672648180/fireurl.co/72320.ts
+#EXTINF:-1,Espaço SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90675.ts
+#EXTINF:-1,SporTV 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103472.ts
+#EXTINF:-1,SporTV 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72321.ts
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/131147.ts
+#EXTINF:-1,SporTV 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/131176.ts
+#EXTINF:-1,SporTV 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/72324.ts
+#EXTINF:-1,SporTV 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/72325.ts
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72326.ts
+#EXTINF:-1,SporTV 3HD
+http://acsc.cc:80/0672648180/fireurl.co/131113.ts
+#EXTINF:-1,SporTV 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/131108.ts
+#EXTINF:-1,SporTV 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/131188.ts
+#EXTINF:-1,SporTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/72329.ts
+#EXTINF:-1,SporTV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72330.ts
+#EXTINF:-1,SporTV HD
+http://acsc.cc:80/0672648180/fireurl.co/72332.ts
+#EXTINF:-1,SporTV SD
+http://acsc.cc:80/0672648180/fireurl.co/131132.ts
+#EXTINF:-1,SporTV3 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103471.ts
+#EXTINF:-1,Estrela + 1 FHD
+http://acsc.cc:80/0672648180/fireurl.co/142032.ts
+#EXTINF:-1,Estrela + 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/128347.ts
+#EXTINF:-1,Estrela + 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/142033.ts
+#EXTINF:-1,Estrela + 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/142034.ts
+#EXTINF:-1,Estrela + 2HD
+http://acsc.cc:80/0672648180/fireurl.co/129345.ts
+#EXTINF:-1,Estrela + 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/142035.ts
+#EXTINF:-1,Estrela + 3 FHD
+http://acsc.cc:80/0672648180/fireurl.co/142036.ts
+#EXTINF:-1,Estrela + 3HD
+http://acsc.cc:80/0672648180/fireurl.co/129346.ts
+#EXTINF:-1,Estrela + 3 SD
+http://acsc.cc:80/0672648180/fireurl.co/142037.ts
+#EXTINF:-1,Estrela + 4 FHD
+http://acsc.cc:80/0672648180/fireurl.co/142038.ts
+#EXTINF:-1,Estrela + 4HD
+http://acsc.cc:80/0672648180/fireurl.co/129347.ts
+#EXTINF:-1,Estrela + 4 SD
+http://acsc.cc:80/0672648180/fireurl.co/142039.ts
+#EXTINF:-1,Star Channel 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90249.ts
+#EXTINF:-1,Star Channel FHD
+http://acsc.cc:80/0672648180/fireurl.co/71936.ts
+#EXTINF:-1,Star Channel FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71937.ts
+#EXTINF:-1,Star Channel FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90707.ts
+#EXTINF:-1,Star Channel HD
+http://acsc.cc:80/0672648180/fireurl.co/71938.ts
+#EXTINF:-1,Star Channel HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90706.ts
+#EXTINF:-1,Star Channel SD
+http://acsc.cc:80/0672648180/fireurl.co/71951.ts
+#EXTINF:-1,Star Channel SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90705.ts
+#EXTINF:-1,Star Hits 2 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103470.ts
+#EXTINF:-1,Star Hits 2 FHD
+http://acsc.cc:80/0672648180/fireurl.co/71947.ts
+#EXTINF:-1,Star Hits 2 FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71948.ts
+#EXTINF:-1,Star Hits 2 FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90701.ts
+#EXTINF:-1,Star Hits 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/71949.ts
+#EXTINF:-1,Star Hits 2 HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90700.ts
+#EXTINF:-1,Star Hits 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/71950.ts
+#EXTINF:-1,Star Hits 2 SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90699.ts
+#EXTINF:-1,Star Hits 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103469.ts
+#EXTINF:-1,Star Hits FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/71944.ts
+#EXTINF:-1,Star Hits FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90704.ts
+#EXTINF:-1,Star Hits HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90703.ts
+#EXTINF:-1,Star Hits SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90702.ts
+#EXTINF:-1,Estúdio Universal 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103467.ts
+#EXTINF:-1,Estúdio Universal FHD
+http://acsc.cc:80/0672648180/fireurl.co/72334.ts
+#EXTINF:-1,Estúdio Universal FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72335.ts
+#EXTINF:-1,Estúdio Universal HD
+http://acsc.cc:80/0672648180/fireurl.co/72336.ts
+#EXTINF:-1,Estúdio Universal SD
+http://acsc.cc:80/0672648180/fireurl.co/72337.ts
+#EXTINF:-1,SYFY 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103474.ts
+#EXTINF:-1,SyFy FHD
+http://acsc.cc:80/0672648180/fireurl.co/72338.ts
+#EXTINF:-1,SyFy FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72339.ts
+#EXTINF:-1,SyFy HD
+http://acsc.cc:80/0672648180/fireurl.co/72340.ts
+#EXTINF:-1,SyFy SD
+http://acsc.cc:80/0672648180/fireurl.co/72341.ts
+#EXTINF:-1,TBS 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103466.ts
+#EXTINF:-1,TBS FHD
+http://acsc.cc:80/0672648180/fireurl.co/72342.ts
+#EXTINF:-1,TBS FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72343.ts
+#EXTINF:-1,TBS HD
+http://acsc.cc:80/0672648180/fireurl.co/72344.ts
+#EXTINF:-1,TBS SD
+http://acsc.cc:80/0672648180/fireurl.co/72345.ts
+#EXTINF:-1,TCM FHD
+http://acsc.cc:80/0672648180/fireurl.co/73251.ts
+#EXTINF:-1,TCM HD
+http://acsc.cc:80/0672648180/fireurl.co/73252.ts
+#EXTINF:-1,TCM SD
+http://acsc.cc:80/0672648180/fireurl.co/73253.ts
+#EXTINF:-1,Telecine Action 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90239.ts
+#EXTINF:-1,Telecine Action FHD
+http://acsc.cc:80/0672648180/fireurl.co/72346.ts
+#EXTINF:-1,Telecine Action FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72347.ts
+#EXTINF:-1,Telecine Action FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90668.ts
+#EXTINF:-1,Telecine Action HD
+http://acsc.cc:80/0672648180/fireurl.co/72348.ts
+#EXTINF:-1,Telecine Action HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90667.ts
+#EXTINF:-1,Telecine Action SD
+http://acsc.cc:80/0672648180/fireurl.co/72349.ts
+#EXTINF:-1,Telecine Action SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90666.ts
+#EXTINF:-1,Telecine Cult 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103456.ts
+#EXTINF:-1,Telecine Cult FHD
+http://acsc.cc:80/0672648180/fireurl.co/72350.ts
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72351.ts
+#EXTINF:-1,Telecine Cult FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90665.ts
+#EXTINF:-1,Telecine Cult HD
+http://acsc.cc:80/0672648180/fireurl.co/72352.ts
+#EXTINF:-1,Telecine Cult HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90664.ts
+#EXTINF:-1,Telecine Cult SD
+http://acsc.cc:80/0672648180/fireurl.co/72353.ts
+#EXTINF:-1,Telecine Cult SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90663.ts
+#EXTINF:-1,Telecine Fun 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103455.ts
+#EXTINF:-1,Telecine Fun FHD
+http://acsc.cc:80/0672648180/fireurl.co/72354.ts
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72355.ts
+#EXTINF:-1,Telecine Fun FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90662.ts
+#EXTINF:-1,Telecine Fun HD
+http://acsc.cc:80/0672648180/fireurl.co/72356.ts
+#EXTINF:-1,Telecine Fun HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90661.ts
+#EXTINF:-1,Telecine Fun SD
+http://acsc.cc:80/0672648180/fireurl.co/72357.ts
+#EXTINF:-1,Telecine Fun SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90660.ts
+#EXTINF:-1,Telecine Pipoca 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90238.ts
+#EXTINF:-1,Telecine Pipoca FHD
+http://acsc.cc:80/0672648180/fireurl.co/72358.ts
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72359.ts
+#EXTINF:-1,Telecine Pipoca FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90659.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://acsc.cc:80/0672648180/fireurl.co/72360.ts
+#EXTINF:-1,Telecine Pipoca HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90658.ts
+#EXTINF:-1,Telecine Pipoca SD
+http://acsc.cc:80/0672648180/fireurl.co/72361.ts
+#EXTINF:-1,Telecine Pipoca SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90657.ts
+#EXTINF:-1,Telecine Premium 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90237.ts
+#EXTINF:-1,Telecine Premium FHD
+http://acsc.cc:80/0672648180/fireurl.co/72362.ts
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72363.ts
+#EXTINF:-1,Telecine Premium FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90656.ts
+#EXTINF:-1,Telecine Premium HD
+http://acsc.cc:80/0672648180/fireurl.co/72364.ts
+#EXTINF:-1,Telecine Premium HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90655.ts
+#EXTINF:-1,Telecine Premium SD
+http://acsc.cc:80/0672648180/fireurl.co/72365.ts
+#EXTINF:-1,Telecine Premium SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90654.ts
+#EXTINF:-1,Telecine Touch 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103454.ts
+#EXTINF:-1,Telecine Touch FHD
+http://acsc.cc:80/0672648180/fireurl.co/72366.ts
+#EXTINF:-1,Telecine Touch FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72367.ts
+#EXTINF:-1,Telecine Touch FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90653.ts
+#EXTINF:-1,Telecine Touch HD
+http://acsc.cc:80/0672648180/fireurl.co/72368.ts
+#EXTINF:-1,Telecine Touch HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90652.ts
+#EXTINF:-1,Telecine Touch SD
+http://acsc.cc:80/0672648180/fireurl.co/72369.ts
+#EXTINF:-1,Telecine Touch SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90651.ts
+#EXTINF:-1,Terra Viva SD
+http://acsc.cc:80/0672648180/fireurl.co/72370.ts
+#EXTINF:-1,TLC 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103465.ts
+#EXTINF:-1,TLC FHD
+http://acsc.cc:80/0672648180/fireurl.co/72371.ts
+#EXTINF:-1,TLC FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72372.ts
+#EXTINF:-1,TLC HD
+http://acsc.cc:80/0672648180/fireurl.co/72373.ts
+#EXTINF:-1,TLC SD
+http://acsc.cc:80/0672648180/fireurl.co/72374.ts
+#EXTINF:-1,TNT 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/72377.ts
+#EXTINF:-1,TNT FHD
+http://acsc.cc:80/0672648180/fireurl.co/72375.ts
+#EXTINF:-1,TNT FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72376.ts
+#EXTINF:-1,TNT FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90674.ts
+#EXTINF:-1,TNT HD
+http://acsc.cc:80/0672648180/fireurl.co/72378.ts
+#EXTINF:-1,TNT HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90673.ts
+#EXTINF:-1,TNT SD
+http://acsc.cc:80/0672648180/fireurl.co/72379.ts
+#EXTINF:-1,TNT SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90672.ts
+#EXTINF:-1,TNT Series 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/72382.ts
+#EXTINF:-1,Série TNT FHD
+http://acsc.cc:80/0672648180/fireurl.co/72380.ts
+#EXTINF:-1, Série TNT FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72381.ts
+#EXTINF:-1,Série TNT FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90671.ts
+#EXTINF:-1,Série TNT HD
+http://acsc.cc:80/0672648180/fireurl.co/72383.ts
+#EXTINF:-1,TNT Series HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90670.ts
+#EXTINF:-1,Série TNT SD
+http://acsc.cc:80/0672648180/fireurl.co/72384.ts
+#EXTINF:-1,TNT Series SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90669.ts
+#EXTINF:-1,Tooncast SD
+http://acsc.cc:80/0672648180/fireurl.co/72385.ts
+#EXTINF:-1,Trace Brazuca 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103453.ts
+#EXTINF:-1,Trace Brazuca FHD
+http://acsc.cc:80/0672648180/fireurl.co/72386.ts
+#EXTINF:-1,Trace Brazuca FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72387.ts
+#EXTINF:-1,Trace Brazuca HD
+http://acsc.cc:80/0672648180/fireurl.co/72388.ts
+#EXTINF:-1,Trace Brazuca SD
+http://acsc.cc:80/0672648180/fireurl.co/72389.ts
+#EXTINF:-1,Caixa de Viagem Brasil 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103452.ts
+#EXTINF:-1,Caixa de Viagem Brasil FHD
+http://acsc.cc:80/0672648180/fireurl.co/72390.ts
+#EXTINF:-1,Caixa de Viagem Brasil FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72391.ts
+#EXTINF:-1,Caixa de Viagem Brasil HD
+http://acsc.cc:80/0672648180/fireurl.co/72392.ts
+#EXTINF:-1,Caixa de Viagem Brasil SD
+http://acsc.cc:80/0672648180/fireurl.co/72393.ts
+#EXTINF:-1,TruTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/76668.ts
+#EXTINF:-1,TruTV HD
+http://acsc.cc:80/0672648180/fireurl.co/76669.ts
+#EXTINF:-1,TruTV SD
+http://acsc.cc:80/0672648180/fireurl.co/76670.ts
+#EXTINF:-1,TV Aparecida 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103464.ts
+#EXTINF:-1,TV Aparecida FHD
+http://acsc.cc:80/0672648180/fireurl.co/72394.ts
+#EXTINF:-1,TV Aparecida FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72395.ts
+#EXTINF:-1,TV Aparecida HD
+http://acsc.cc:80/0672648180/fireurl.co/72396.ts
+#EXTINF:-1,TV Aparecida SD
+http://acsc.cc:80/0672648180/fireurl.co/72397.ts
+#EXTINF:-1,TV Aratu SBT Bahia HD
+http://acsc.cc:80/0672648180/fireurl.co/73260.ts
+#EXTINF:-1,TV Brasil 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/72398.ts
+#EXTINF:-1,TV Brasil 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103463.ts
+#EXTINF:-1,TV Brasil FHD
+http://acsc.cc:80/0672648180/fireurl.co/72399.ts
+#EXTINF:-1,TV Brasil FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72400.ts
+#EXTINF:-1,TV Brasil HD
+http://acsc.cc:80/0672648180/fireurl.co/72401.ts
+#EXTINF:-1,TV Brasil SD
+http://acsc.cc:80/0672648180/fireurl.co/72402.ts
+#EXTINF:-1,TV Câmara SD
+http://acsc.cc:80/0672648180/fireurl.co/72403.ts
+#EXTINF:-1,TV Canção Nova SD
+http://acsc.cc:80/0672648180/fireurl.co/72404.ts
+#EXTINF:-1,TV Cidade - RECORDTV 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103462.ts
+#EXTINF:-1,TV Cidade RecordTV FHD
+http://acsc.cc:80/0672648180/fireurl.co/92666.ts
+#EXTINF:-1,TV Cidade RecordTV FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/92667.ts
+#EXTINF:-1,TV Cidade RecordTV HD
+http://acsc.cc:80/0672648180/fireurl.co/92668.ts
+#EXTINF:-1,TV Cidade RecordTV SD
+http://acsc.cc:80/0672648180/fireurl.co/92669.ts
+#EXTINF:-1,TV Coxa HD
+http://acsc.cc:80/0672648180/fireurl.co/105790.ts
+#EXTINF:-1,TV Diário 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103461.ts
+#EXTINF:-1,TV Diário Fortaleza FHD
+http://acsc.cc:80/0672648180/fireurl.co/92670.ts
+#EXTINF:-1,TV Diário Fortaleza HD
+http://acsc.cc:80/0672648180/fireurl.co/72593.ts
+#EXTINF:-1,TV Diário Fortaleza SD
+http://acsc.cc:80/0672648180/fireurl.co/92671.ts
+#EXTINF:-1,TV Evangelizar SD
+http://acsc.cc:80/0672648180/fireurl.co/72628.ts
+#EXTINF:-1,TV Gazeta FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104919.ts
+#EXTINF:-1,TV Gazeta SP FHD
+http://acsc.cc:80/0672648180/fireurl.co/104917.ts
+#EXTINF:-1,TV Gazeta SP HD
+http://acsc.cc:80/0672648180/fireurl.co/72406.ts
+#EXTINF:-1,TV Gazeta SP SD
+http://acsc.cc:80/0672648180/fireurl.co/104918.ts
+#EXTINF:-1,TV Guarapari FHD
+http://acsc.cc:80/0672648180/fireurl.co/79313.ts
+#EXTINF:-1,TV Guarapari HD
+http://acsc.cc:80/0672648180/fireurl.co/79314.ts
+#EXTINF:-1,TV Guarapari SD
+http://acsc.cc:80/0672648180/fireurl.co/79315.ts
+#EXTINF:-1,TV Jangadeiro - SBT 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103460.ts
+#EXTINF:-1,TV Jangadeiro - SBT FHD
+http://acsc.cc:80/0672648180/fireurl.co/100416.ts
+#EXTINF:-1,TV Jangadeiro - SBT FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/100417.ts
+#EXTINF:-1,TV Jangadeiro - SBT HD
+http://acsc.cc:80/0672648180/fireurl.co/100418.ts
+#EXTINF:-1,TV Jangadeiro - SBT SD
+http://acsc.cc:80/0672648180/fireurl.co/100419.ts
+#EXTINF:-1,TV Justiça SD
+http://acsc.cc:80/0672648180/fireurl.co/77620.ts
+#EXTINF:-1,TV Novo Tempo 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103459.ts
+#EXTINF:-1,TV Novo Tempo FHD
+http://acsc.cc:80/0672648180/fireurl.co/72408.ts
+#EXTINF:-1,TV Novo Tempo FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72409.ts
+#EXTINF:-1,TV Novo Tempo HD
+http://acsc.cc:80/0672648180/fireurl.co/72410.ts
+#EXTINF:-1,TV Novo Tempo SD
+http://acsc.cc:80/0672648180/fireurl.co/72411.ts
+#EXTINF:-1,TV Ra Tim Bum 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103458.ts
+#EXTINF:-1,TV Ra-Tim-Bum FHD
+http://acsc.cc:80/0672648180/fireurl.co/72412.ts
+#EXTINF:-1,TV Ra-Tim-Bum FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72413.ts
+#EXTINF:-1,TV Ra-Tim-Bum HD
+http://acsc.cc:80/0672648180/fireurl.co/72414.ts
+#EXTINF:-1,TV Ra-Tim-Bum SD
+http://acsc.cc:80/0672648180/fireurl.co/72415.ts
+#EXTINF:-1,TV Senado SD
+http://acsc.cc:80/0672648180/fireurl.co/72416.ts
+#EXTINF:-1,TV União 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103457.ts
+#EXTINF:-1,TV União Fortaleza FHD
+http://acsc.cc:80/0672648180/fireurl.co/100420.ts
+#EXTINF:-1,TV União Fortaleza FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/100422.ts
+#EXTINF:-1,TV União Fortaleza HD
+http://acsc.cc:80/0672648180/fireurl.co/100423.ts
+#EXTINF:-1,TV União Fortaleza SD
+http://acsc.cc:80/0672648180/fireurl.co/100424.ts
+#EXTINF:-1,TV WA SD
+http://acsc.cc:80/0672648180/fireurl.co/72417.ts
+#EXTINF:-1,TV5 Monde SD
+http://acsc.cc:80/0672648180/fireurl.co/72418.ts
+#EXTINF:-1,TV universal 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90632.ts
+#EXTINF:-1,TV universal FHD
+http://acsc.cc:80/0672648180/fireurl.co/72419.ts
+#EXTINF:-1,TV universal FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72420.ts
+#EXTINF:-1,TV Universal HD
+http://acsc.cc:80/0672648180/fireurl.co/72421.ts
+#EXTINF:-1,TV Universal SD
+http://acsc.cc:80/0672648180/fireurl.co/72422.ts
+#EXTINF:-1,Viva 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103450.ts
+#EXTINF:-1,Viva FHD
+http://acsc.cc:80/0672648180/fireurl.co/72427.ts
+#EXTINF:-1,Viva FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72428.ts
+#EXTINF:-1,Viva HD
+http://acsc.cc:80/0672648180/fireurl.co/72429.ts
+#EXTINF:-1,Viva SD
+http://acsc.cc:80/0672648180/fireurl.co/72430.ts
+#EXTINF:-1,Warner Channel 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90236.ts
+#EXTINF:-1,Warner Channel FHD
+http://acsc.cc:80/0672648180/fireurl.co/72431.ts
+#EXTINF:-1,Warner Channel FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72432.ts
+#EXTINF:-1,Warner Channel FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90650.ts
+#EXTINF:-1,Warner Channel HD
+http://acsc.cc:80/0672648180/fireurl.co/72433.ts
+#EXTINF:-1,Warner Channel HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90649.ts
+#EXTINF:-1,Warner Channel SD
+http://acsc.cc:80/0672648180/fireurl.co/72434.ts
+#EXTINF:-1,Warner Channel SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90648.ts
+#EXTINF:-1,Woohoo 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103449.ts
+#EXTINF:-1,WooHoo FHD
+http://acsc.cc:80/0672648180/fireurl.co/72435.ts
+#EXTINF:-1,WooHoo FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72436.ts
+#EXTINF:-1,WooHoo HD
+http://acsc.cc:80/0672648180/fireurl.co/72437.ts
+#EXTINF:-1,WooHoo SD
+http://acsc.cc:80/0672648180/fireurl.co/72438.ts
+#EXTINF:-1,Zoomoo FHD
+http://acsc.cc:80/0672648180/fireurl.co/104934.ts
+#EXTINF:-1,Zoomoo FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/104937.ts
+#EXTINF:-1,Zoomoo HD
+http://acsc.cc:80/0672648180/fireurl.co/104935.ts
+#EXTINF:-1,Zoomoo SD
+http://acsc.cc:80/0672648180/fireurl.co/104936.ts
